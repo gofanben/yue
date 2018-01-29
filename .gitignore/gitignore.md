@@ -3,9 +3,9 @@
 <tbody>
 <tr>
   
-<a href="video_url": "20180128_010386-video.mp4", /a>
+<a href="video_url": "https://github.com/dfchunsring/yue/blob/master/.gitignore/download/20180128_010386-video.mp4?raw=true", /a>
   
-<td align="center"><IMG SRC="img/img/Former governor lady-600x400.jpg"></td>
+<td align="center"><IMG SRC="img/2018-01-29_214158.jpg"></td>
 </tr>
 <tr>
 <td align="center">前州长夫人追看神韵三年 领略中华文化精髓</td>
