@@ -30,7 +30,7 @@
 ### 至于firefox 插件， 建议使用 <a href="https://addons.mozilla.org/zh-CN/firefox/addon/epubreader/" target="_blank">epubReader</a>
 ******
 ## 《共产主义的终极目的》有12个视频，目前出到8。以下是epub电子书的下载点
-### 您也可以先下载 [希望之声 的 mp3 版本的 epub ](https://github.com/dfchunsring/yue/blob/master/downdoad/epub-.ultiGoalCmCN8k%20(1).epub?raw=true) , 或是 [大纪元的 文本 epub 电子书](https://github.com/dfchunsring/yue/blob/master/downdoad/A6gbUltiGoalCmChina.epub?raw=true)
+### 您也可以先下载 [希望之声 的 mp3 版本的 epub ](https://github.com/dfchunsring/yue/blob/master/downdoad/%E5%B8%8C%E6%9C%9B%E4%B9%8B%E5%A3%B0%20%E7%9A%84%20mp3%20%E7%89%88%E6%9C%AC%20epub-.ultiGoalCmCN8k%20(1).epub?raw=true) , 或是 [大纪元的 文本 epub 电子书](https://github.com/dfchunsring/yue/blob/master/downdoad/%E5%A4%A7%E7%BA%AA%E5%85%83%E7%9A%84%20%E6%96%87%E6%9C%AC%20epub%20%E7%94%B5%E5%AD%90%E4%B9%A6gbUltiGoalCmChina.epub?raw=true)
  
 ******
 </td>
@@ -58,7 +58,7 @@
 <tr>
 	<td><a href="https://github.com/dfchunsring/yue/blob/master/downdoad/goalCh7.epub?raw=true"><img src="https://github.com/dfchunsring/yue/blob/master/img/p8654841a650831227.jpg?raw=true""></a></td>
 	<td><a href="https://github.com/dfchunsring/yue/blob/master/downdoad/goalCh8.epub?raw=true"><img src="https://github.com/dfchunsring/yue/blob/master/img/p8654841a650831227.jpg?raw=true""></a></td>
-	<td><!-- <a href="https://github.com/j168/j688/blob/master/ebook/epub/goalCh6.epub?raw=true"><img src="https://github.com/dfchunsring/yue/blob/master/img/p8654841a650831227.jpg?raw=true""></a> --></td>
+	<td><!-- <a href="https://github.com/dfchunsring/yue/blob/master/downdoad/goalCh6.epub?raw=true"><img src="https://github.com/dfchunsring/yue/blob/master/img/p8654841a650831227.jpg?raw=true""></a> --></td>
 </tr>
 <tr>
 	<td><center><a href="https://github.com/dfchunsring/yue/blob/master/downdoad/goalCh7.epub?raw=true">【共产主义的终极目的】（7）</a></center></td>
