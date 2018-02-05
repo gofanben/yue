@@ -31,6 +31,8 @@
 ### 至于firefox 插件， 建议使用 <a href="https://addons.mozilla.org/zh-CN/firefox/addon/epubreader/" target="_blank">epubReader</a>
 ******
 
++ <a href='https://github.com/dfchunsring/yue/blob/master/downdoad/fangqian.epub?raw=true'>翻牆(epub电子书)附詳細說明</a>
+
 <b>请下载翻牆</b><br>
 
 + <a href='https://github.com/dfchunsring/yue/blob/master/fq/).um4.1.apk?raw=true'>无界翻墙软件</a>
