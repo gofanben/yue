@@ -37,14 +37,14 @@
 
 <b>请下载翻牆</b><br>
 
-+ <a href='https://github.com/dfchunsring/yue/blob/master/fq/).um4.1.apk?raw=true'>无界翻墙软件</a>
-    - <a href='https://github.com/dfchunsring/yue/blob/master/fq/).rar?raw=true'>安卓版4.1</a>
-    - <a href='https://github.com/dfchunsring/yue/blob/master/fq/..u1704.zip?raw=true'>无界桌机版17.04(exe)</a>  
++ <a href='https://github.com/dfchunsring/yue/blob/master/fga/um4.1.apk?raw=true'>无界翻墙软件</a>
+    - <a href='https://github.com/dfchunsring/yue/blob/master/fga/um4.1.apk?raw=true'>安卓版4.1</a>
+    - <a href='https://github.com/dfchunsring/yue/blob/master/fq/u1704.exe?raw=true'>无界桌机版17.04(exe)</a>  
 + <a href='https://github.com/dfchunsring/yue/blob/master/fq/fg-32.zip?raw=true'>自由门翻墙软件</a>
     - <a href='https://github.com/dfchunsring/yue/blob/master/fq/fg-32.zip?raw=true'>安卓版3.2</a>
    - <a href='https://github.com/dfchunsring/yue/blob/master/fq/fg764p.zip?raw=true'>桌机版7.64版（1月9日)</a>
-+ <a href='https://github.com/dfchunsring/yue/blob/master/fq/.GreeniPPOTV_Setup_Ver12Build944b.zip?raw=true'>爱博电视桌机版</a>   
-+ <a href='https://github.com/dfchunsring/yue/blob/master/fq/2.1.12sp1)iNTD_TV(apk)iNTD_TV.apk?raw=true'>新唐人安卓版</a>
++ <a href='https://github.com/dfchunsring/yue/blob/master/fq/GreeniPPOTV_Setup_Ver12Build944b.zip?raw=true'>爱博电视桌机版</a>   
++ <a href='https://github.com/dfchunsring/yue/blob/master/fq/2.1.12sp1%20.iNTD_TV(apk)iNTD_TV.apk?raw=true'>新唐人安卓版</a>
 
 ******
 
