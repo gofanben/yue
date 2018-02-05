@@ -35,6 +35,19 @@
 
 ******
 
+<b>请下载翻牆</b><br>
+
++ <a href='https://github.com/dfchunsring/yue/blob/master/fga/um4.1.apk?raw=true'>无界翻墙软件</a>
+    - <a href='https://github.com/dfchunsring/yue/blob/master/fga/um4.1.apk?raw=true'>安卓版4.1</a>
+    - <a href='https://github.com/dfchunsring/yue/blob/master/fq/u1704.exe?raw=true'>无界桌机版17.04(exe)</a>  
++ <a href='https://github.com/dfchunsring/yue/blob/master/fq/fg-32.zip?raw=true'>自由门翻墙软件</a>
+    - <a href='https://github.com/dfchunsring/yue/blob/master/fq/fg-32.zip?raw=true'>安卓版3.2</a>
+   - <a href='https://github.com/dfchunsring/yue/blob/master/fq/fg764p.zip?raw=true'>桌机版7.64版（1月9日)</a>
++ <a href='https://github.com/dfchunsring/yue/blob/master/fq/GreeniPPOTV_Setup_Ver12Build944b.zip?raw=true'>爱博电视桌机版</a>   
++ <a href='https://github.com/dfchunsring/yue/blob/master/fq/2.1.12sp1%20.iNTD_TV(apk)iNTD_TV.apk?raw=true'>新唐人安卓版</a>
+
+******
+
 ## 《共产主义的终极目的》有12个视频，目前出到8。以下是epub电子书的下载点
 ### 您也可以先下载 [希望之声 的 mp3 版本的 epub ](https://github.com/dfchunsring/yue/blob/master/downdoad/ultiGoalCmCN8k.epub?raw=true) , 或是 [大纪元的 文本 epub 电子书](https://github.com/dfchunsring/yue/blob/master/downdoad/gbUltiGoalCmChina.epub?raw=true)
  
@@ -70,22 +83,9 @@
 	<td><center><a href="https://github.com/dfchunsring/yue/blob/master/downdoad/goalCh7.epub?raw=true">【共产主义的终极目的】（7）</a></center></td>
 	<td><center><a href="https://github.com/dfchunsring/yue/blob/master/downdoad/goalCh8.epub?raw=true">【共产主义的终极目的】（8）</a></center></td>
 	
-
-******
-
-<b>请下载翻牆</b><br>
-
-+ <a href='https://github.com/dfchunsring/yue/blob/master/fga/um4.1.apk?raw=true'>无界翻墙软件</a>
-    - <a href='https://github.com/dfchunsring/yue/blob/master/fga/um4.1.apk?raw=true'>安卓版4.1</a>
-    - <a href='https://github.com/dfchunsring/yue/blob/master/fq/u1704.exe?raw=true'>无界桌机版17.04(exe)</a>  
-+ <a href='https://github.com/dfchunsring/yue/blob/master/fq/fg-32.zip?raw=true'>自由门翻墙软件</a>
-    - <a href='https://github.com/dfchunsring/yue/blob/master/fq/fg-32.zip?raw=true'>安卓版3.2</a>
-   - <a href='https://github.com/dfchunsring/yue/blob/master/fq/fg764p.zip?raw=true'>桌机版7.64版（1月9日)</a>
-+ <a href='https://github.com/dfchunsring/yue/blob/master/fq/GreeniPPOTV_Setup_Ver12Build944b.zip?raw=true'>爱博电视桌机版</a>   
-+ <a href='https://github.com/dfchunsring/yue/blob/master/fq/2.1.12sp1%20.iNTD_TV(apk)iNTD_TV.apk?raw=true'>新唐人安卓版</a>	
-	
 	<td><center>&nbsp;</center></td>
 </tr>
+
 </table>
 
 
