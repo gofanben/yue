@@ -83,7 +83,6 @@
 	<td><center><a href="https://github.com/dfchunsring/yue/blob/master/downdoad/goalCh7.epub?raw=true">【共产主义的终极目的】（7）</a></center></td>
 	<td><center><a href="https://github.com/dfchunsring/yue/blob/master/downdoad/goalCh8.epub?raw=true">【共产主义的终极目的】（8）</a></center></td>
 	
-	<td><center>&nbsp;</center></td>
 </tr>
 
 </table>
