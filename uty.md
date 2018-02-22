@@ -44,11 +44,11 @@
     - <a href='https://github.com/dfchunsring/yue/blob/master/fq/fg-32.zip?raw=true'>安卓版3.2</a>
    - <a href='https://github.com/dfchunsring/yue/blob/master/fq/fg764p.zip?raw=true'>桌机版7.64版（1月9日)</a>
 + <a href='https://github.com/dfchunsring/drdr/blob/master/fg/Green_iPPOTV.exe?raw=true'>爱博电视桌机版</a>   
-+ <a href='https://github.com/dfchunsring/yue/blob/master/fq/2.1.12sp1%20.iNTD_TV(apk)iNTD_TV.apk?raw=true'>新唐人安卓版</a>
++ <a href='https://github.com/dfchunsring/yue/blob/master/fq/2.1.12sp1%20.iNTD_TV(apk)iNTD_TV.apk?raw=true'>新唐人安卓手機版</a>
 
 ******
 
-## 《共产主义的终极目的》有12个视频，目前出到8。以下是epub电子书的下载点
+## 《共产主义的终极目的》有12个视频。以下是epub电子书的下载点
 ### 您也可以先下载 [希望之声 的 mp3 版本的 epub ](https://github.com/dfchunsring/yue/blob/master/downdoad/ultiGoalCmCN8k.epub?raw=true) , 或是 [大纪元的 文本 epub 电子书](https://github.com/dfchunsring/yue/blob/master/downdoad/gbUltiGoalCmChina.epub?raw=true)
  
 ******
