@@ -49,7 +49,7 @@
 ******
 
 ## 《共产主义的终极目的》有12个视频。以下是epub电子书的下载点
-### 您也可以先下载 [希望之声 的 mp3 版本的 epub ](https://github.com/dfchunsring/yue/blob/master/epub/goalmp3Np.epub?raw=true) , 或是 [大纪元的 文本 epub 电子书](https://github.com/dfchunsring/yue/blob/master/downdoad/gbUltiGoalCmChina.epub?raw=true)
+### 您也可以先下载 [音频版 mp3 epub简体版全书](https://github.com/dfchunsring/yue/blob/master/epub/goalmp3Np.epub?raw=true) , 或是 [大纪元的 文本 epub 电子书](https://github.com/dfchunsring/yue/blob/master/downdoad/gbUltiGoalCmChina.epub?raw=true)
  
 ******
 </td>
