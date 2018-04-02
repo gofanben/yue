@@ -99,6 +99,12 @@
 
 
 
+<h1 align="center">	
+<td><a href="https://github.com/dfchunsring/wer/blob/master/downldoad/Reasily1802h.apk?raw=true">阅读电子书请先下载Reasily阅读器,</a></td></h1></p>	
+<b>请下载翻牆</b><br>
+
+
+
 
 
 
