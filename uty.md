@@ -30,7 +30,7 @@
 ### 否则要安装 chrome 的 插件 <a href="https://chrome.google.com/webstore/detail/readium/fepbnnnkkadjhjahcafoaglimekefifl"  target="_blank">readium</a>,才能阅读
 ### 至于firefox 插件， 建议使用 <a href="https://addons.mozilla.org/zh-CN/firefox/addon/epubreader/" target="_blank">epubReader</a>
 ******
-
+<b>请下载翻牆</b><br>
 + <a href='https://github.com/dfchunsring/drdr/blob/master/fg/fangqian.epub?raw=true'>翻牆(epub电子书)附詳細說明</a>
 
 ******
@@ -101,7 +101,7 @@
 
 <h1 align="center">	
 <td><a href="https://github.com/dfchunsring/wer/blob/master/downldoad/Reasily1802h.apk?raw=true">阅读电子书请先下载Reasily阅读器,</a></td></h1></p>	
-<b>请下载翻牆</b><br>
+
 
 
 
