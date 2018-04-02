@@ -46,12 +46,6 @@
 
 ******
 
-<h1 align="center">	
-<td><a href="https://github.com/dfchunsring/wer/blob/master/downldoad/Reasily1802h.apk?raw=true">阅读电子书请先下载Reasily阅读器,</a></td></h1></p>	
-<b>请下载翻牆</b><br>
-
-******
-
 ## 《共产主义的终极目的》有12个视频。以下是epub电子书的下载点
 ### 您也可以先下载 [音频版 mp3 epub简体版全书](https://github.com/dfchunsring/yue/blob/master/epub/goalmp3Np.epub?raw=true) , 或是 [大纪元的 文本 epub 电子书](https://github.com/dfchunsring/yue/blob/master/downdoad/gbUltiGoalCmChina.epub?raw=true)
  
