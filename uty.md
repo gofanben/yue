@@ -31,14 +31,9 @@
 ### 至于firefox 插件， 建议使用 <a href="https://addons.mozilla.org/zh-CN/firefox/addon/epubreader/" target="_blank">epubReader</a>
 ******
 
-<h1 align="center">	
-<td><a href="https://github.com/dfchunsring/wer/blob/master/downldoad/Reasily1802h.apk?raw=true">阅读电子书请先下载Reasily阅读器,</a></td></h1></p>	
-
 + <a href='https://github.com/dfchunsring/drdr/blob/master/fg/fangqian.epub?raw=true'>翻牆(epub电子书)附詳細說明</a>
 
 ******
-
-<b>请下载翻牆</b><br>
 
 + <a href='https://github.com/dfchunsring/yue/blob/master/fga/um4.1.apk?raw=true'>无界翻墙软件</a>
     - <a href='https://github.com/dfchunsring/drdr/blob/master/fg/um4.2.apk?raw=true'>安卓版4.2</a>
@@ -48,6 +43,12 @@
    - <a href='https://github.com/dfchunsring/yue/blob/master/fq/fg764p.zip?raw=true'>桌机版7.64版（1月9日)</a>
 + <a href='https://github.com/dfchunsring/drdr/blob/master/fg/Green_iPPOTV.exe?raw=true'>爱博电视桌机版</a>   
 + <a href='https://github.com/dfchunsring/yue/blob/master/fq/2.1.12sp1%20.iNTD_TV(apk)iNTD_TV.apk?raw=true'>新唐人安卓手機版</a>
+
+******
+
+<h1 align="center">	
+<td><a href="https://github.com/dfchunsring/wer/blob/master/downldoad/Reasily1802h.apk?raw=true">阅读电子书请先下载Reasily阅读器,</a></td></h1></p>	
+<b>请下载翻牆</b><br>
 
 ******
 
