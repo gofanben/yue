@@ -6,8 +6,6 @@
 		
 
 <img src="https://github.com/dfchunsring/yue/blob/master/img/cmGoal.jpg" width="850">
-
-<td><h1><a href='https://git.io/duun'> 重要连结~</a><h1></td>
 		
 ### 在《九评共产党》发表13周年之际，《九评》编辑部发表新书《共产主义的终极目的》。
 ******
@@ -105,7 +103,7 @@
 <h1 align="center">	
 <td><a href="https://github.com/dfchunsring/wer/blob/master/downldoad/Reasily1802h.apk?raw=true">阅读电子书请先下载Reasily阅读器,</a></td></h1></p>	
 
-
+<td><h1><a href='https://git.io/duun'> 重要连结~</a><h1></td>
 
 
 
