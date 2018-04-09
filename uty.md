@@ -103,7 +103,7 @@
 <h1 align="center">	
 <td><a href="https://github.com/dfchunsring/wer/blob/master/downldoad/Reasily1802h.apk?raw=true">阅读电子书请先下载Reasily阅读器,</a></td></h1></p>	
 
-<td><h1><a href='https://git.io/duun'> 重要连结~</a><h1></td>
+<h1 align="center"><td><a href="https://git.io/duun">点击连结~看更多~</a></td></h1></p>
 
 
 
