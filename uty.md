@@ -149,6 +149,13 @@
 
 责任编辑：高义
 
+<tbody> 
+ <td><h2><a href='http://qq.leucas.men/10/'>我要三退</a></h2></td>
+<td><h2><a href='http://qq.leucas.men/10'>大纪元网站自己退</a></h2></td>
+<td><h2><a href='https://git.io/duun'>或給QQ:908728809 发短信</a></h2></td>
+</tr>	
+</tbody> 
+
 <hr>
 
 <div align=center><img src="https://github.com/dfchunsring/yue/blob/master/img/9p-book.jpg?raw=true"></div>
