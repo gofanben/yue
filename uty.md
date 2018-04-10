@@ -278,12 +278,13 @@
 正是看准了这一点，江泽民集团与中共邪党才形成了唇亡齿寒的互相利用关系。江泽民集团和中共邪党才成了共产邪灵用来跟创世主作对、向世人作恶、毁人不倦的犯罪工具。（未完待续）
 
 责任编辑：高义
+<tbody> 
+ <td><h2><a href='http://qq.leucas.men/10/'>我要三退</a></h2></td>
+<td><h2><a href='http://qq.leucas.men/10'>大纪元网站自己退</a></h2></td>
+<td><h2><a href='https://git.io/duun'>或給QQ:908728809 发短信</a></h2></td>
+</tr>	
+</tbody> 
 
-  <tr>
-<h2 align="center"><a href='http://qq.leucas.men/10/'>我要三退</a></h2>
-<h2 align="center"><a href="http://qq.leucas.men/10">大纪元网站自己退</a></h2>
-<h2 align="center"><a href="https://git.io/ysys">或給QQ:908728809 发短信</a></h2> 
-</tr>
 <hr>
 <div align=center><h1>《共产主义的终极目的》是揭开创世真相的天书（下）</h1></div>
 <div align=center><img src="https://github.com/dfchunsring/yue/blob/master/img/9pgcdt-1.jpg?raw=true"></div>
@@ -399,6 +400,12 @@
 
 责任编辑：高义
 
+<tbody> 
+ <td><h2><a href='http://qq.leucas.men/10/'>我要三退</a></h2></td>
+<td><h2><a href='http://qq.leucas.men/10'>大纪元网站自己退</a></h2></td>
+<td><h2><a href='https://git.io/duun'>或給QQ:908728809 发短信</a></h2></td>
+</tr>	
+</tbody> 
 
 <hr>
 
@@ -437,3 +444,9 @@
 
 责任编辑：高义
 
+<tbody> 
+ <td><h2><a href='http://qq.leucas.men/10/'>我要三退</a></h2></td>
+<td><h2><a href='http://qq.leucas.men/10'>大纪元网站自己退</a></h2></td>
+<td><h2><a href='https://git.io/duun'>或給QQ:908728809 发短信</a></h2></td>
+</tr>	
+</tbody> 
