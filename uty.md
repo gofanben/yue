@@ -105,7 +105,7 @@
 
 <h1 align="center"><td><a href="https://git.io/duun">点击连结~看更多~</a></td></h1></p>
 
-<div align=center><h3>觅真：可帮助您认清共产邪灵的一本奇书</h3></div>
+<div align=center><h1>觅真：可帮助您认清共产邪灵的一本奇书</h1></div>
 <div align=center><img src="https://github.com/dfchunsring/yue/blob/master/img/gcze-9.jpg?raw=true"></div>
 
 十三年前，大纪元发表了醒世巨著《九评共产党》。《九评》传播十三年来，如同九把利剑，对剥开中共画皮，戳穿谎言、揭露邪恶、帮助民众认清中共的流氓本性和邪
@@ -152,7 +152,7 @@
 <hr>
 
 
-<div align=center><h3>《共产主义的终极目的》是揭开创世真相的天书（上）</h3></div>
+<div align=center><h1>《共产主义的终极目的》是揭开创世真相的天书（上）</h1></div>
 
 <div align=center><h5>作者：李德君</h5></div>
 
@@ -279,12 +279,12 @@
 责任编辑：高义
 
   <tr>
-<h1 align="center"><a href='http://qq.leucas.men/10/'>我要三退</a></h1>
-<h1 align="center"><a href="http://qq.leucas.men/10">大纪元网站自己退</a></h1>
-<h1 align="center"><a href="https://git.io/ysys">或給QQ:908728809 发短信</a></h1> 
+<h2 align="center"><a href='http://qq.leucas.men/10/'>我要三退</a></h2>
+<h2 align="center"><a href="http://qq.leucas.men/10">大纪元网站自己退</a></h2>
+<h2 align="center"><a href="https://git.io/ysys">或給QQ:908728809 发短信</a></h2> 
 </tr>
 <hr>
-<div align=center><h3>《共产主义的终极目的》是揭开创世真相的天书（下）</h3></div>
+<div align=center><h1>《共产主义的终极目的》是揭开创世真相的天书（下）</h1></div>
 <div align=center><img src="https://github.com/dfchunsring/yue/blob/master/img/9pgcdt-1.jpg?raw=true"></div>
 
 【大纪元2018年02月05日讯】（接上篇）
