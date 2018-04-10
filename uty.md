@@ -9,7 +9,7 @@
 		
 ### 在《九评共产党》发表13周年之际，《九评》编辑部发表新书《共产主义的终极目的》。
 ******
-<img src="https://github.com/dfchunsring/yue/blob/master/img/9p-1.jpg" width="850">
+<img src="https://github.com/dfchunsring/yue/blob/master/img/9p-1.jpg" width="700">
 ******
 ### 本书分上下两部：
 ### 上部《共产主义的终极目的（中国篇）》
