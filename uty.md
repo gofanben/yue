@@ -106,7 +106,7 @@
 <h1 align="center"><td><a href="https://git.io/duun">点击连结~看更多~</a></td></h1></p>
 
 <div align=center><h1>可帮助您认清共产邪灵的一本奇书~《共产主义的终极目的》</h1></div>
-<div align=center><img src="https://github.com/dfchunsring/yue/blob/master/img/9pgczes.jpg?raw=true"></div>
+<div align=center><img src="https://github.com/dfchunsring/yue/blob/master/img/9pgczes.jpg?raw=true"></div><p>
 
 十三年前，大纪元发表了醒世巨著《九评共产党》。《九评》传播十三年来，如同九把利剑，对剥开中共画皮，戳穿谎言、揭露邪恶、帮助民众认清中共的流氓本性和邪
 恶本质发挥了不可替代的作用，使三亿民众做出了抛弃中共邪恶组织的选择，拥有了光明的未来！
