@@ -151,7 +151,8 @@
 
 <hr>
 
-
+<div align=center><img src="https://github.com/dfchunsring/yue/blob/master/img/9p-book.jpg?raw=true"></div>
+<p>
 <div align=center><h1>《共产主义的终极目的》是揭开创世真相的天书（上）</h1></div>
 
 <div align=center><h5>作者：李德君</h5></div>
