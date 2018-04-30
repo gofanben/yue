@@ -2,7 +2,7 @@
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img1/gin-0421.jpg?raw=true" width=880></a><br></div>
  </br>
 
-<td><h1><a href='https://git.io/duun'> 重要连结~~</a><h1></td>
+<td><h1><a href='https://git.io/duun'> 重要连结~~</a></h1></td>
   
   <div align="center">
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/img/17_222010.jpg?raw=true" width=880></a><br></div>
@@ -11,7 +11,7 @@
 
   <a name=list><b>目錄</b><p>
 
-<a href="#1">1.【特稿】《真实的江泽民》联合写作组发表公告</a><br>
+</h4><a href="#1">1.【特稿】《真实的江泽民》联合写作组发表公告</a></h4><br>
 <a href="#2">2.《真实的江泽民》引言 </a><br>
 <a href="#3">3.《真实的江泽民》第一章（上）</a><br>
 <a href="#4">4.《真实的江泽民》第一章（下） </a><br>
