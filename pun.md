@@ -41,7 +41,9 @@
 </h3>
 
 <a name=1><h1 align="center"><b>1.【特稿】《真实的江泽民》联合写作组发表公告</b></h1>
-
+  <div align="center">
+<IMG SRC="https://github.com/dfchunsring/yue/blob/master/img-2/realriver.jpg?raw=true" width=700></a><br></div>
+ </br>
 【大纪元2012年05月12日讯】大纪元、新唐人、希望之声、动态网、无界网即日起将联合发表新书《真实的江泽民》。
 
 我们是在向人类、向未来讲述一段历史，讲述一段正在发生的历史，一段正在发生却不被同世之人所知的历史。
@@ -143,7 +145,7 @@
 
 在江泽民执政的十五年中，中国的假冒伪劣泛滥达到了空前的程度，各类假冒不仅充斥全国，而且走向世界，成为了江治时代的一大特色。引领这个假冒时代的，正是一个精心伪造的江泽民。
   <div align="center">
-<IMG SRC="https://github.com/dfchunsring/yue/blob/master/img-2/170846.jpg?raw=true" width=700></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/yue/blob/master/img-2/170846.jpg?raw=true" width=600></a><br></div>
  </br>
 <h4>伪造家庭背景</h4>
 
@@ -164,7 +166,7 @@
 江泽民小学毕业后考不上扬州中学，只考进江都县立初中。第二年，他凭借着父亲的关系转入扬州中学。1942年，江进入伪中央大学工学院电工系。1989年7月几经核对后复印的《南京中央大学（1940-1945）校友通讯录》的第42页上列有江泽民的名字，写明他“42年肄业”，也即1942年江泽民是该校工学院电工系学生。修订过三次是不应该有误的，特别是对江这样的特殊人物。上述通讯录的扉页及其续页上印有五线谱校歌，歌词中有“干戈永戢，弦诵是崇”等语，这就是江泽民上大学时所唱的“永远放下武器，共颂皇道乐土”的歌颂日军的校歌。
 
   <div align="center">
-<IMG SRC="https://github.com/dfchunsring/yue/blob/master/img-2/165840.jpg?raw=true" width=700></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/yue/blob/master/img-2/165840.jpg?raw=true" width=600></a><br></div>
  </br>
 
 侵华日军陆军大将土肥原贤二手下有一名得力助手丁默村，是侵华日军间谍头目。丁默村早年加入过中共，1932年转去国民党，1938年潜入上海，在上海基斯菲尔路76号成立“特工总部”，丁默村、李士群分任正、副主任。李士群于1924年加入中共，1927年4月，受中共指派，前往苏联接受“特工”训练，1928年底返回上海，在中共“特科”工作。1938年，李士群投靠侵华日军。
@@ -182,7 +184,7 @@
 库恩的《江泽民传》中提到江在上海读书期间，参加了各种上街游行示威活动。根据上海一位军队离休老干部、当年的中共上海地下党员胡锁明见证，在上海交大中共地下党组织活动时，胡锁明从来没有见过江参加的身影。
 
   <div align="center">
-<IMG SRC="https://github.com/dfchunsring/yue/blob/master/img-2/163914.jpg?raw=true" width=700></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/yue/blob/master/img-2/163914.jpg?raw=true" width=600></a><br></div>
  </br>
 
 
