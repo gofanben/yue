@@ -128,6 +128,7 @@
 <a href=#list><h5 align="right">回目錄</h5></a> 
 
 <hr>
+
 <a name=3><h1 align="center"><b>3.《真实的江泽民》第一章（上）</b></h1>
 <h2 align="center"><b>不道德的人生来历（上）</b></h2>
 
@@ -413,8 +414,8 @@
 
 <a href=#list><h5 align="right">回目錄</h5></a> 
 <hr>
-<a href="#4">4.《真实的江泽民》第一章（下）</a><p>
 
+<a name=4><h1 align="center"><b>4.《真实的江泽民》第一章（下）</b></h1>
 <h2 align="center"><b>不道德的人生来历（下）</b></h2>
 
 【大纪元2012年05月15日讯】<h3>第三节 忽左忽右</h3>
@@ -703,7 +704,7 @@
 <a href=#list><h5 align="right">回目錄</h5></a> 
 
 <hr>
-<a href="#4">4.《真实的江泽民》第一章（下）</a><p>
+<a name=5><h1 align="center"><b>5.《真实的江泽民》第二章 江泽民弄权</b></h1>
 
 
 
