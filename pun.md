@@ -39,7 +39,7 @@
 <a href="#26">26.《真实的江泽民》第十四章 文明的希望</a><br>
 <a href="#27">27.《真实的江泽民》结语</a><br>
 </h3>
-
+<hr>
 <a name=1><h1 align="center"><b>【特稿】《真实的江泽民》联合写作组发表公告</b></h1>
   <div align="center">
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/img-2/realriver.jpg?raw=true" width=700></a><br></div>
