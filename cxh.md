@@ -5,7 +5,7 @@
  </tr>
 <tr>
         <td align="center" width="550"><a href="https://git.io/hao-1"><img src="https://github.com/dfchunsring/wer/blob/master/img/89.jpg?raw=true"></a>
-  <td align="center" width="450"><img src="gm/img/fldfhao-qr.png"></td>
+  <td align="center" width="450"><img src="https://github.com/dfchunsring/yue/blob/master/img-2/qr.ioi.tw.png?raw=true"></td>
 </tr>
  <tr>
   </tr>
