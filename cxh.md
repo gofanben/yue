@@ -101,5 +101,5 @@
 （本文转载自法轮大法网站）(http://www.dajiyuan.com)
 
   <tr>
-<td align="center" colspan="2"><h1><b><a href="https://github.com/dfchunsring/wer/blob/master/epgh.md">访问连结网址请先翻墙~请下载*</a></b></h1>
+<td align="center" colspan="2"><h3><b><a href="https://github.com/dfchunsring/wer/blob/master/epgh.md">访问连结网址请先翻墙~请下载*</a></b></h3>
  </tr>
