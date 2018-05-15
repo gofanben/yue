@@ -42,7 +42,7 @@
 “珍惜吧！佛法就在你们面前。”
 
   <div align="center">
-<IMG SRC="https://github.com/dfchunsring/yue/blob/master/img-2/faleng1.jpg?raw=true" width=750></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/yue/blob/master/img-2/faleng1.jpg?raw=true" width=600></a><br></div>
 
 
 
