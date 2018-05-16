@@ -68,8 +68,8 @@
 
 那么既然要修心，就要有相应的法理作为指导。法轮大法的最主要著作《转法轮》里，包含了从修炼入门到修炼圆满所需的一切法理。学炼者只要不断的、反复的通读《转法轮》，就会逐渐领悟到修炼所需的许许多多的高深内涵。
 
-<h2>法轮大法的主要著作《转法轮》</h2>
 
+<h2 align="center"><b>法轮大法的主要著作《转法轮》</b></h2>
   <div align="center">
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/img-2/zflen-1.jpg?raw=true" width=650></a><br></div>
 
