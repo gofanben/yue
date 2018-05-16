@@ -17,7 +17,7 @@
  <tr>
    <td align="center" width="550"><a href="https://github.com/dfchunsring/yue/blob/master/epub--1/fldfhao.epub?raw=true"><img src="https://github.com/dfchunsring/yue/blob/master/img-2/w-23.jpg?raw=true"></a>
   <td align="center" width="450"><img src="https://github.com/dfchunsring/yue/blob/master/img-2/qr.ioi.tw.png?raw=true"></td>
-   
+<hr>   
   </tr>
   </table>
   
@@ -40,7 +40,7 @@
 法轮大法修炼一开始就处在很高的起点上，为有缘之士和炼功多年而不长功的人提供了一个最方便、最快、最好、也是最难得的修炼法门。“当修炼 者的功力和心性达到一定层次后，实现在世间修成金刚不坏之体，达到开功开悟，整体升华到高层次。大志者学正法，得正果，提高心性，去掉执著方为圆满。”
 
 “珍惜吧！佛法就在你们面前。”
-
+<hr>
   <div align="center">
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/img-2/flun-1.jpg?raw=true" width=550></a><br></div>
 
@@ -106,3 +106,4 @@
   <tr>
 <td align="center" colspan="2"><h2><b><a href="https://github.com/dfchunsring/wer/blob/master/epgh.md">访问连结网址请先翻墙~请下载*</a></b></h2>
  </tr>
+<hr>
