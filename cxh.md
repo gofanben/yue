@@ -81,6 +81,7 @@
 
 <h3>2、炼功</h3>
 
+<h2 align="center"><b>五套功法展示图</b></h2>
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/img-2/flg-1-page.jpg?raw=true" width=880></a><br></div>
 
