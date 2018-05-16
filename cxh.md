@@ -81,6 +81,9 @@
 
 <h3>2、炼功</h3>
 
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/yue/blob/master/img-2/flg-1-page.jpg?raw=true" width=880></a><br></div>
+
 法轮大法是性命双修的功法，因此需要炼功。法轮大法有五套功法，李洪志老师所著的《法轮大法大圆满法》这本书里，有对法轮大法功法特点的讲解、五套功法的动 作图解和动作机理；还包含了四个附录：1、对法轮大法辅导站的要求；2、法轮大法弟子传法传功规定；3、法轮大法辅导员标准；4、法轮大法修炼者须知。
 
 网络版《法轮大法大圆满法》请见：http://www.falundafa.org/book/chigb/dymf.htm
