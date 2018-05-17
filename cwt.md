@@ -1,8 +1,8 @@
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img1/gin-0420.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img/gin-0421.jpg?raw=true" width=880></a><br></div>
  </br>
 
-<td><h1><a href='https://git.io/duun'> 点击连结~看更多~</a></h1></td>
+<td><h1><a href='https://git.io/duun'> 了解更多真相~有福报~</a></h1></td>
   
   <div align="center">
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/img/17_222010.jpg?raw=true" width=880></a><br></div>
