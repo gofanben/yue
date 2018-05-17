@@ -109,7 +109,8 @@
 
 
 <table>
-	<h2>《共产主义的终极目的》12个视频。以下是.mp4的下载点方便您聆听、观赏</h2>
+
+<h2 align="center"><td><a href="https://git.io/duun">《共产主义的终极目的》12个视频。以下是.mp4的下载点方便您聆听、观赏</a></td></h2></p>
 
 <tr>
 	<td><center><a href="https://github.com/dfchunsring/yue/blob/master/goalCh-1.mp4/goalCh1s.mp4?raw=true">【共产主义的终极目的】（1）. mp4</a></center></td>
@@ -137,6 +138,40 @@
 </tr>
 	
 </table>
+
+
+<h2 align="center"><td><a href="https://git.io/duun">以下是方便您聆听的.mp3</a></td></h2></p>
+
+<table>
+
+<tr>
+	<td><center><a href="https://github.com/dfchunsring/yue/blob/master/ntdGoal8K/8k_goalCh1.mp3?raw=true">【共产主义的终极目的】（1）. mp3</a></center></td>
+	<td><center><a href="https://github.com/dfchunsring/yue/blob/master/ntdGoal8K/8k_goalCh2.mp3?raw=true">【共产主义的终极目的】（2）. mp3</a></center></td>
+	<td><center><a href="https://github.com/dfchunsring/yue/blob/master/ntdGoal8K/8k_goalCh3.mp3?raw=true">【共产主义的终极目的】（3）. mp3</a></center></td>
+</tr>
+
+<tr>
+	<td><center><a href="https://github.com/dfchunsring/yue/blob/master/ntdGoal8K/8k_goalCh4.mp3?raw=true">【共产主义的终极目的】（4）. mp3</a></center></td>
+	<td><center><a href="https://github.com/dfchunsring/yue/blob/master/ntdGoal8K/8k_goalCh5.mp3?raw=true">【共产主义的终极目的】（5）. mp3</a></center></td>
+	<td><center><a href="https://github.com/dfchunsring/yue/blob/master/ntdGoal8K/8k_goalCh6.mp3?raw=true">【共产主义的终极目的】（6）. mp3</a></center></td>
+</tr>
+
+
+<tr>
+	<td><center><a href="https://github.com/dfchunsring/yue/blob/master/ntdGoal8K/8k_goalCh7.mp3?raw=true">【共产主义的终极目的】（7）. mp3</a></center></td>
+	<td><center><a href="https://github.com/dfchunsring/yue/blob/master/ntdGoal8K/8k_goalCh8.mp3?raw=true">【共产主义的终极目的】（8）. mp3</a></center></td>
+	<td><center><a href="https://github.com/dfchunsring/yue/blob/master/ntdGoal8K/8k_goalCh9.mp3?raw=true">【共产主义的终极目的】（9）. mp3</a></center></td>
+	
+
+<tr>
+<td><center><a href="https://github.com/dfchunsring/yue/blob/master/ntdGoal8K/8k_goalCh10.mp3?raw=true">【共产主义的终极目的】  (10)  . mp3</a></center></td>
+<td><center><a href="https://github.com/dfchunsring/yue/blob/master/ntdGoal8K/8k_goalCh11.mp3?raw=true">【共产主义的终极目的】  (11)  . mp3</a></center></td>
+<td><center><a href="https://github.com/dfchunsring/yue/blob/master/ntdGoal8K/8k_goalCh12.mp3?raw=true">【共产主义的终极目的】  (12)  . mp3</a></center></td>
+</tr>
+	
+</table>
+
+
 
 
 
