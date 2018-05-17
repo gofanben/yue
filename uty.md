@@ -105,7 +105,7 @@
 <h1 align="center">	
 <td><a href="https://github.com/dfchunsring/wer/blob/master/downldoad/Reasily1802h.apk?raw=true">阅读电子书请先下载Reasily阅读器,</a></td></h1></p>	
 
-<h1 align="center"><td><a href="https://git.io/duun">点击连结~看更多~</a></td></h1></p>
+<h1 align="center"><td><a href="https://git.io/duun">了解更多真相~有福报~</a></td></h1></p>
 
 <div align=center><h1>可帮助您认清共产邪灵的一本奇书~《共产主义的终极目的》</h1></div>
 <div align=center><img src="https://github.com/dfchunsring/yue/blob/master/img/9pgczes.jpg?raw=true"></div><p>
