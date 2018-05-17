@@ -31,9 +31,6 @@
 
 
   <div align="center">
-<IMG SRC="https://github.com/dfchunsring/yue/blob/master/img-2/faln.jpg?raw=true" width=550></a><br></div>
-
-  <div align="center">
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/img-2/flun-1.jpg?raw=true" width=550></a><br></div>
 
 <h2>一、什么是法轮功</h2>
