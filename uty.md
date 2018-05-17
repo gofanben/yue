@@ -1,6 +1,6 @@
 <table>
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img1/gin-0420.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img1/gin-0421.jpg?raw=true" width=880></a><br></div>
 </table>	
 <table>
 <tr>
