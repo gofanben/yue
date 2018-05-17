@@ -109,7 +109,7 @@
 
 
 <table>
-
+	<h2>《共产主义的终极目的》12个视频。以下是.mp4的下载点方便您聆听、观赏</h2>
 
 <tr>
 	<td><center><a href="https://github.com/dfchunsring/yue/blob/master/goalCh-1.mp4/goalCh1s.mp4?raw=true">【共产主义的终极目的】（1）. mp4</a></center></td>
@@ -131,9 +131,9 @@
 	
 
 <tr>
-<td><center><a href="https://github.com/dfchunsring/yue/blob/master/goalCh-1.mp4/goalCh10s.mp4?raw=true">【共产主义的终极目的】  (10)  . epub</a></center></td>
-<td><center><a href="https://github.com/dfchunsring/yue/blob/master/goalCh-1.mp4/goalCh11s.mp4?raw=true">【共产主义的终极目的】  (11)  . epub</a></center></td>
-<td><center><a href="https://github.com/dfchunsring/yue/blob/master/goalCh-1.mp4/goalCh12s.mp4?raw=true">【共产主义的终极目的】  (12)  . epub</a></center></td>
+<td><center><a href="https://github.com/dfchunsring/yue/blob/master/goalCh-1.mp4/goalCh10s.mp4?raw=true">【共产主义的终极目的】  (10)  . mp4</a></center></td>
+<td><center><a href="https://github.com/dfchunsring/yue/blob/master/goalCh-1.mp4/goalCh11s.mp4?raw=true">【共产主义的终极目的】  (11)  . mp4</a></center></td>
+<td><center><a href="https://github.com/dfchunsring/yue/blob/master/goalCh-1.mp4/goalCh12s.mp4?raw=true">【共产主义的终极目的】  (12)  . mp4</a></center></td>
 </tr>
 	
 </table>
