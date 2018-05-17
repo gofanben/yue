@@ -107,7 +107,7 @@
 
 <h1 align="center"><td><a href="https://git.io/duun">了解更多真相~有福报~</a></td></h1></p>
 
-<h2 align="center"><td><a href="https://git.io/duun">《共产主义的终极目的》12个视频。以下是.mp4的下载点方便您聆听、观赏</a></td></h2></p>
+<h2 align="center"><td><a href="https://git.io/duun">以下是12个视频的下载点方便您聆听、观赏的.mp4</a></td></h2></p>
 
 <table>
 
