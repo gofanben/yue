@@ -61,9 +61,9 @@
 	<td><a href="https://github.com/dfchunsring/yue/blob/master/downdoad/ntdGoalCN3.epub?raw=true"><img src="https://github.com/dfchunsring/yue/blob/master/img/p8654841a650831227.jpg?raw=true" width="265"  border="0" alt=""></a></td>
 </tr>
 <tr>
-	<td><center><a href="https://github.com/dfchunsring/yue/blob/master/epub/goalCh1.epub?raw=true">【共产主义的终极目的】（1）</a></center></td>
-	<td><center><a href="https://github.com/dfchunsring/yue/blob/master/epub/goalCh2.epub?raw=true">【共产主义的终极目的】（2）</a></center></td>
-	<td><center><a href="https://github.com/dfchunsring/yue/blob/master/epub/goalCh3.epub?raw=true">【共产主义的终极目的】（3）</a></center></td>
+	<td><center><a href="https://github.com/dfchunsring/yue/blob/master/epub/goalCh1.epub?raw=true">【共产主义的终极目的】（1）epub</a></center></td>
+	<td><center><a href="https://github.com/dfchunsring/yue/blob/master/epub/goalCh2.epub?raw=true">【共产主义的终极目的】（2）epub</a></center></td>
+	<td><center><a href="https://github.com/dfchunsring/yue/blob/master/epub/goalCh3.epub?raw=true">【共产主义的终极目的】（3）epub</a></center></td>
 </tr>
 <tr>
 	<td><a href="https://github.com/dfchunsring/yue/blob/master/downdoad/ntdGoalCN4.epub?raw=true"><img src="https://github.com/dfchunsring/yue/blob/master/img/download.jpg?raw=true""></a></td>
@@ -71,9 +71,9 @@
 	<td><a href="https://github.com/dfchunsring/yue/blob/master/downdoad/goalCh6.epub?raw=true"><img src="https://github.com/dfchunsring/yue/blob/master/img/download.jpg?raw=true""></a></td>
 </tr>
 <tr>
-	<td><center><a href="https://github.com/dfchunsring/yue/blob/master/epub/goalCh4.epub?raw=true">【共产主义的终极目的】（4）</a></center></td>
-	<td><center><a href="https://github.com/dfchunsring/yue/blob/master/epub/goalCh5.epub?raw=true">【共产主义的终极目的】（5）</a></center></td>
-	<td><center><a href="https://github.com/dfchunsring/yue/blob/master/epub/goalCh6.epub?raw=true">【共产主义的终极目的】（6）</a></center></td>
+	<td><center><a href="https://github.com/dfchunsring/yue/blob/master/epub/goalCh4.epub?raw=true">【共产主义的终极目的】（4）epub</a></center></td>
+	<td><center><a href="https://github.com/dfchunsring/yue/blob/master/epub/goalCh5.epub?raw=true">【共产主义的终极目的】（5）epub</a></center></td>
+	<td><center><a href="https://github.com/dfchunsring/yue/blob/master/epub/goalCh6.epub?raw=true">【共产主义的终极目的】（6）epub</a></center></td>
 </tr>
 <tr>
 	<td><a href="https://github.com/dfchunsring/yue/blob/master/downdoad/ntdGoalCN7.epub?raw=true"><img src="https://github.com/dfchunsring/yue/blob/master/img/download.jpg?raw=true""></a></td>
@@ -81,9 +81,9 @@
 	<td><a href="https://github.com/dfchunsring/yue/blob/master/downdoad/goalCh9.epub?raw=true"><img src="https://github.com/dfchunsring/yue/blob/master/img/download.jpg?raw=true""></a></td>
 </tr>
 <tr>
-	<td><center><a href="https://github.com/dfchunsring/yue/blob/master/epub/goalCh7.epub?raw=true">【共产主义的终极目的】（7）</a></center></td>
-	<td><center><a href="https://github.com/dfchunsring/yue/blob/master/epub/goalCh8.epub?raw=true">【共产主义的终极目的】（8）</a></center></td>
-	<td><center><a href="https://github.com/dfchunsring/yue/blob/master/epub/goalCh9.epub?raw=true">【共产主义的终极目的】（9）</a></center></td>
+	<td><center><a href="https://github.com/dfchunsring/yue/blob/master/epub/goalCh7.epub?raw=true">【共产主义的终极目的】（7）epub</a></center></td>
+	<td><center><a href="https://github.com/dfchunsring/yue/blob/master/epub/goalCh8.epub?raw=true">【共产主义的终极目的】（8）epub</a></center></td>
+	<td><center><a href="https://github.com/dfchunsring/yue/blob/master/epub/goalCh9.epub?raw=true">【共产主义的终极目的】（9）epub</a></center></td>
 </tr>
 
 <tr>
@@ -92,9 +92,9 @@
 	<td><a href="https://github.com/dfchunsring/yue/blob/master/downdoad/goalCh12.epub?raw=true"><img src="https://github.com/dfchunsring/yue/blob/master/img/p8654841a650831227.jpg?raw=true""></a></td>
 </tr>
 	<tr>
-	<td><center><a href="https://github.com/dfchunsring/yue/blob/master/epub/goalCh10.epub?raw=true">【共产主义的终极目的】（10）</a></center></td>
-	<td><center><a href="https://github.com/dfchunsring/yue/blob/master/epub/goalCh11.epub?raw=true">【共产主义的终极目的】（11）</a></center></td>
-	<td><center><a href="https://github.com/dfchunsring/yue/blob/master/epub/goalCh12.epub?raw=true">【共产主义的终极目的】（12）</a></center></td>
+	<td><center><a href="https://github.com/dfchunsring/yue/blob/master/epub/goalCh10.epub?raw=true">【共产主义的终极目的】（10）epub</a></center></td>
+	<td><center><a href="https://github.com/dfchunsring/yue/blob/master/epub/goalCh11.epub?raw=true">【共产主义的终极目的】（11）epub</a></center></td>
+	<td><center><a href="https://github.com/dfchunsring/yue/blob/master/epub/goalCh12.epub?raw=true">【共产主义的终极目的】（12）epub</a></center></td>
 </tr>
 
 
