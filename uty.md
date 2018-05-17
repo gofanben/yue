@@ -1,5 +1,7 @@
-
-	
+<table>
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img1/gin-0420.jpg?raw=true" width=880></a><br></div>
+</table>	
 <table>
 <tr>
 	<td colspan=3>
@@ -150,8 +152,8 @@
 责任编辑：高义
 
 <tbody> 
- <td><h2><a href='http://qq.leucas.men/10/'>我要三退</a></h2></td>
-<td><h2><a href='http://qq.leucas.men/10'>大纪元网站自己退</a></h2></td>
+<h2 align="center"><td><a href="https://git.io/duun">了解更多真相~有福报~</a></td></h2></p>
+<td><h2><a href='https://git.io/epf'>透过翻墙~大纪元网站自己退</a></h2></td>
 <td><h2><a href='https://git.io/duun'>或給QQ:908728809 发短信</a></h2></td>
 </tr>	
 </tbody> 
@@ -286,8 +288,8 @@
 
 责任编辑：高义
 <tbody> 
- <td><h2><a href='http://qq.leucas.men/10/'>我要三退</a></h2></td>
-<td><h2><a href='http://qq.leucas.men/10'>大纪元网站自己退</a></h2></td>
+<h2 align="center"><td><a href="https://git.io/duun">了解更多真相~有福报~</a></td></h2></p>
+<td><h2><a href='https://git.io/epf'>透过翻墙~大纪元网站自己退</a></h2></td>
 <td><h2><a href='https://git.io/duun'>或給QQ:908728809 发短信</a></h2></td>
 </tr>	
 </tbody> 
@@ -408,8 +410,8 @@
 责任编辑：高义
 
 <tbody> 
- <td><h2><a href='http://qq.leucas.men/10/'>我要三退</a></h2></td>
-<td><h2><a href='http://qq.leucas.men/10'>大纪元网站自己退</a></h2></td>
+<h2 align="center"><td><a href="https://git.io/duun">了解更多真相~有福报~</a></td></h2></p>
+<td><h2><a href='https://git.io/epf'>透过翻墙~大纪元网站自己退</a></h2></td>
 <td><h2><a href='https://git.io/duun'>或給QQ:908728809 发短信</a></h2></td>
 </tr>	
 </tbody> 
@@ -452,8 +454,8 @@
 责任编辑：高义
 
 <tbody> 
- <td><h2><a href='http://qq.leucas.men/10/'>我要三退</a></h2></td>
-<td><h2><a href='http://qq.leucas.men/10'>大纪元网站自己退</a></h2></td>
+<h2 align="center"><td><a href="https://git.io/duun">了解更多真相~有福报~</a></td></h2></p>
+<td><h2><a href='https://git.io/epf'>透过翻墙~大纪元网站自己退</a></h2></td>
 <td><h2><a href='https://git.io/duun'>或給QQ:908728809 发短信</a></h2></td>
 </tr>	
 </tbody> 
