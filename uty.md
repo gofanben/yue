@@ -107,6 +107,39 @@
 
 <h1 align="center"><td><a href="https://git.io/duun">了解更多真相~有福报~</a></td></h1></p>
 
+
+<table>
+
+
+<tr>
+	<td><center><a href="https://github.com/dfchunsring/yue/blob/master/goalCh-1.mp4/goalCh1s.mp4?raw=true">【共产主义的终极目的】（1）. mp4</a></center></td>
+	<td><center><a href="https://github.com/dfchunsring/yue/blob/master/goalCh-1.mp4/goalCh2s.mp4?raw=true">【共产主义的终极目的】（2）. mp4</a></center></td>
+	<td><center><a href="https://github.com/dfchunsring/yue/blob/master/goalCh-1.mp4/goalCh3s.mp4?raw=true">【共产主义的终极目的】（3）. mp4</a></center></td>
+</tr>
+
+<tr>
+	<td><center><a href="https://github.com/dfchunsring/yue/blob/master/goalCh-1.mp4/goalCh4s.mp4?raw=true">【共产主义的终极目的】（4）. mp4</a></center></td>
+	<td><center><a href="https://github.com/dfchunsring/yue/blob/master/goalCh-1.mp4/goalCh5s.mp4?raw=true">【共产主义的终极目的】（5）. mp4</a></center></td>
+	<td><center><a href="https://github.com/dfchunsring/yue/blob/master/goalCh-1.mp4/goalCh6s.mp4?raw=true">【共产主义的终极目的】（6）. mp4</a></center></td>
+</tr>
+
+
+<tr>
+	<td><center><a href="https://github.com/dfchunsring/yue/blob/master/goalCh-1.mp4/goalCh7s.mp4?raw=true">【共产主义的终极目的】（7）. mp4</a></center></td>
+	<td><center><a href="https://github.com/dfchunsring/yue/blob/master/goalCh-1.mp4/goalCh8s.mp4?raw=true">【共产主义的终极目的】（8）. mp4</a></center></td>
+	<td><center><a href="https://github.com/dfchunsring/yue/blob/master/goalCh-1.mp4/goalCh9s.mp4?raw=true">【共产主义的终极目的】（9）. mp4</a></center></td>
+	
+
+<tr>
+<td><center><a href="https://github.com/dfchunsring/yue/blob/master/goalCh-1.mp4/goalCh10s.mp4?raw=true">【共产主义的终极目的】  (10)  . epub</a></center></td>
+<td><center><a href="https://github.com/dfchunsring/yue/blob/master/goalCh-1.mp4/goalCh11s.mp4?raw=true">【共产主义的终极目的】  (11)  . epub</a></center></td>
+<td><center><a href="https://github.com/dfchunsring/yue/blob/master/goalCh-1.mp4/goalCh12s.mp4?raw=true">【共产主义的终极目的】  (12)  . epub</a></center></td>
+</tr>
+	
+</table>
+
+
+
 <div align=center><h1>可帮助您认清共产邪灵的一本奇书~《共产主义的终极目的》</h1></div>
 <div align=center><img src="https://github.com/dfchunsring/yue/blob/master/img/9pgczes.jpg?raw=true"></div><p>
 
