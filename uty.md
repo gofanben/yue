@@ -48,7 +48,7 @@
 
 ******
 
-## 《共产主义的终极目的》有12个视频。以下是epub电子书的下载点
+## 《共产主义的终极目的》12个视频。以下是epub电子书的下载点
 ### 您也可以先下载 [音频版 mp3 epub简体版全书](https://github.com/dfchunsring/yue/blob/master/epub/goalmp3Np.epub?raw=true) , 或是 [大纪元的 文本 epub 电子书](https://github.com/dfchunsring/yue/blob/master/downdoad/gbUltiGoalCmChina.epub?raw=true)
  
 ******
@@ -107,7 +107,7 @@
 
 <h1 align="center"><td><a href="https://git.io/duun">了解更多真相~有福报~</a></td></h1></p>
 
-<h2 align="center"><td><a href="https://git.io/duun">以下是12个视频的下载点方便您聆听、观赏的.mp4</a></td></h2></p>
+<h2 align="center"><td><a href="https://github.com/dfchunsring/yue/blob/master/epub--1/goalCh.mp4.epub?raw=true">12个视频影像书的下载点~方便您聆听、观赏的.mp4</a></td></h2></p>
 
 <table>
 
@@ -139,7 +139,7 @@
 </table>
 
 
-<h2 align="center"><td><a href="https://git.io/duun">以下是方便您聆听的.mp3</a></td></h2></p>
+<h2 align="center"><td><a href="https://github.com/dfchunsring/yue/blob/master/epub--1/goalCh.mp3.epub?raw=true">方便您聆听的.mp3(有声书-epub)</a></td></h2></p>
 
 
 
