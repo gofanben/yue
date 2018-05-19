@@ -107,4 +107,6 @@
   <tr>
 <td align="center" colspan="2"><h2><b><a href="https://github.com/dfchunsring/wer/blob/master/epgh.md">访问连结网址请先翻墙~请下载*</a></b></h2>
  </tr>
+ 
+ <h1 align="center"><td><a href="https://git.io/duun">了解真相有福报~点击连结~看更多~</a></td></h1></p>
 <hr>
