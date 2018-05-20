@@ -10,7 +10,7 @@
  </tr>
  
 <tr>
-        <td align="center" width="550"><a href="https://git.io/ubc"><img src="https://github.com/dfchunsring/wer/blob/master/img/89.jpg?raw=true"></a>
+        <td align="center" width="500"><a href="https://git.io/ubc"><img src="https://github.com/dfchunsring/wer/blob/master/img/89.jpg?raw=true"></a>
   <td align="center" width="450"><img src="https://github.com/dfchunsring/yue/blob/master/img-2/qr-fg5.png?raw=true"></td>
 </tr>
 <p></p>
@@ -21,7 +21,7 @@
 
 <table>
   <tr>
-   <td align="center" width="550"><a href="https://github.com/dfchunsring/yue/blob/master/epub--1/fldfhao.epub?raw=true"><img src="https://github.com/dfchunsring/yue/blob/master/img-2/w-23.jpg?raw=true"></a>
+   <td align="center" width="500"><a href="https://github.com/dfchunsring/yue/blob/master/epub--1/fldfhao.epub?raw=true"><img src="https://github.com/dfchunsring/yue/blob/master/img-2/w-23.jpg?raw=true"></a>
   <td align="center" width="450"><img src="https://github.com/dfchunsring/yue/blob/master/img-2/qr.ioi.tw.png?raw=true"></td>
  
   </tr>
