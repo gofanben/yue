@@ -8,10 +8,12 @@
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/img/17_222010.jpg?raw=true" width=880></a><br></div>
  </br>
  <hr>
+ 
+ <h1 align="center">方便您观赏、聆听的.mp4-mp3-epub下载点</h1></p>
 <table> 
 <tr>
 <td><center><a href="https://github.com/dfchunsring/wer/blob/master/downldoad/zsjms.epub?raw=true" width=270>【历史系列片】真实的江泽民-mp4-epub</a></center></td>	
-	<td><center><a href="https://github.com/dfchunsring/yue/blob/master/epub--1/goalCh.mp4.epub?raw=true" width=270>【共产主义的终极目的】12个视频影像书的下载点~方便您聆听、观赏的.mp4-epub</a></center></td>
+	<td><center><a href="https://github.com/dfchunsring/yue/blob/master/epub--1/goalCh.mp4.epub?raw=true" width=270>【共产主义的终极目的】12个视频影像书的-epub</a></center></td>
 	<td><center><a href="https://github.com/dfchunsring/yue/blob/master/epub--1/goalCh.mp3.epub?raw=true" width=270>【共产主义的终极目的】方便您聆听的.mp3(有声书-epub)</a></center></td>
 </tr>
 
