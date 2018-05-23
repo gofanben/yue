@@ -1,14 +1,13 @@
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img1/gin-0421.jpg?raw=true" width=880></a><br></div>
  </br>
-
-<td><h1><a href='https://git.io/duun'> 点击连结~看更多~</a></h1></td>
   
   <div align="center">
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/img/17_222010.jpg?raw=true" width=880></a><br></div>
  </br>
  <hr>
- 
+ <td><h1><a href='https://git.io/duun'> 点击连结~看更多~</a></h1></td>
+  </br>
  <h1 align="center">方便您观赏、聆听的.mp4-mp3-epub下载点</h1></p>
 <table> 
 <tr>
