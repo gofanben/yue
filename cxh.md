@@ -123,5 +123,19 @@
 <td align="center" colspan="2"><h2><b><a href="https://github.com/dfchunsring/wer/blob/master/epgh.md">访问连结网址请先翻墙~请下载*</a></b></h2>
  </tr>
  
- <h1 align="center"><td><a href="https://git.io/duun">了解真相有福报~点击连结~看更多~</a></td></h1></p>
+ <h2 align="center"><td><a href="https://git.io/duun">了解真相有福报~点击连结~看更多~</a></td></h2></p>
 <hr>
+
+ <h2 align="center"><td><a href="https://github.com/dfchunsring/wer/blob/master/xyrs-mp4/XYRS_s5--videos.mp4?raw=true">一位渐冻人见证大法神奇~</a></td></h2></p>
+
+  <div align="center">
+<IMG SRC="https://github.com/dfchunsring/yue/blob/master/XYRS-img/XYRS-5.jpg?raw=true" width=450></a><br></div>
+
+他是一位医生，1983年他患了一种不治之症——进行性脊肌萎缩症，这是一种非常可怕的疾病，世界卫生组织把这种病列为世界五大绝症之一。得了这种病会出现肌肉萎缩，进而发展成迟缓性的瘫痪，凡是得了这种病的人，最终都会呼吸无力，然后压迫心脏窒息而死。
+
+作为医生的他，曾救治过无数的病人，然而当面对自己的疾病时，却是茫然无措。他看遍了中西名医，最后都以失败告终。然而，就是这样一位患上绝症的医生病人，却奇迹般的活了过来，这里面成就着一段不朽的佳话。
+
+
+
+
+
