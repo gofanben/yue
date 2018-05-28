@@ -137,13 +137,11 @@
 
 作为医生的他，曾救治过无数的病人，然而当面对自己的疾病时，却是茫然无措。他看遍了中西名医，最后都以失败告终。然而，就是这样一位患上绝症的医生病人，却奇迹般的活了过来，这里面成就着一段不朽的佳话。
 
- <h2 align="center"><td><a href="https://github.com/dfchunsring/wer/blob/master/xyrs-mp4/XYRS_s4--videos.mp4?raw=true">一位奇女子的见证~</a></td></h2></p>
-
   <div align="center">
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/XYRS-img/xyrs--4.jpg?raw=true" width=550></a><br></div>
 这是一位缙云县的奇女子，她曾姿容秀美，冰心玉洁，超凡脱俗，遭受七年迫害后，面目皆非，请跟我们一起去聆听缙云女子朱媛珠的人生传奇吧。
 
-
+ <h2 align="center"><td><a href="https://github.com/dfchunsring/wer/blob/master/xyrs-mp4/XYRS_s4--videos.mp4?raw=true">一位奇女子的见证~mp4</a></td></h2></p>
 
 
 
