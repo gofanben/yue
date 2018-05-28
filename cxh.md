@@ -41,16 +41,7 @@
 
   法轮修炼大法是由法轮佛法大师李洪志先生创编的佛家上乘修炼大法，“是同化宇宙最高特性‘真、善、忍’为根本，以宇宙最高特性为指导，按照 宇宙演化原理而修炼，所以我们修的是大法大道。”李洪志大师论述法轮佛法的著作已经公开发表的有《法轮功》、《转法轮》、《转法轮（卷二）》、《法轮大法 义解》、《法轮大法　大圆满法》、《法轮大法　精進要旨》、《法轮大法　悉尼法会讲法》、《法轮大法　美国法会讲法》和《转法轮法解》等四十五本，这些著作已经译成三十多种外文版，在全世界发行和传播.....
   
-<table>
-<tr>	<td><a href="https://github.com/dfchunsring/wer/blob/master/downldoad/xyse-1.epub?raw=true"><img src="https://github.com/dfchunsring/yue/blob/master/img/witnc-1.jpg?raw=true"></a></td>
-	<td><a href="https://github.com/dfchunsring/yue/blob/master/zsjs-1.mp4/falun-274642.mp4?raw=true"><img src="https://github.com/dfchunsring/yue/blob/master/img/fldfh--1.jpg?raw=true"></a></td>
 
-</tr>
-<tr>	<td><center><h3><a href="https://github.com/dfchunsring/wer/blob/master/downldoad/xyse-1.epub?raw=true">见证大法的神奇mp4-epub</a></h3></center></td>
-	<td><center><h3><a href="https://github.com/dfchunsring/yue/blob/master/zsjs-1.mp4/falun-274642.mp4?raw=true">法轮大法好-mp4</a></h3></center></td>
-
-</tr>
-</table>
 
 <p></p>
   <div align="center">
@@ -125,6 +116,17 @@
  
  <h2 align="center"><td><a href="https://git.io/duun">了解真相有福报~点击连结~看更多~</a></td></h2></p>
 <hr>
+
+<table>
+<tr>	<td><a href="https://github.com/dfchunsring/wer/blob/master/downldoad/xyse-1.epub?raw=true"><img src="https://github.com/dfchunsring/yue/blob/master/img/witnc-1.jpg?raw=true"></a></td>
+	<td><a href="https://github.com/dfchunsring/yue/blob/master/zsjs-1.mp4/falun-274642.mp4?raw=true"><img src="https://github.com/dfchunsring/yue/blob/master/img/fldfh--1.jpg?raw=true"></a></td>
+
+</tr>
+<tr>	<td><center><h3><a href="https://github.com/dfchunsring/wer/blob/master/downldoad/xyse-1.epub?raw=true">见证大法的神奇mp4-epub</a></h3></center></td>
+	<td><center><h3><a href="https://github.com/dfchunsring/yue/blob/master/zsjs-1.mp4/falun-274642.mp4?raw=true">法轮大法好-mp4</a></h3></center></td>
+
+</tr>
+</table>
 
  <h2 align="center"><td><a href="https://github.com/dfchunsring/wer/blob/master/xyrs-mp4/XYRS_s5--videos.mp4?raw=true">一位渐冻人见证大法神奇~</a></td></h2></p>
 
