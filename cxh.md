@@ -140,9 +140,8 @@
 
 <hr>
 
-1
 <h1 align="center">	
-<td><a href="https://github.com/dfchunsring/yue/blob/master/img--3/bzs-1.jpg?raw=true">比利时“浪子”的人生转折</a></td></h1>
+<td><a href="http://www.xinsheng.net/">比利时“浪子”的人生转折</a></td></h1>
   <div align="center">
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/img--3/bzs-1.jpg?raw=true" width=550></a><br></div>
 
@@ -187,8 +186,12 @@
 贝纳斯说，“可是自从我学了法轮大法后，身体上感觉越来越好，不再需要任何药物了，也不要做手术了。”现在父子三家人经常在一起聚会，大家庭充满了欢乐气氛。
 
 <hr>
-2
-台湾校长的修炼故事
+
+<h1 align="center">	
+<td><a href="http://www.zhengjian.org/">台湾校长的修炼故事</a></td></h1>
+  <div align="center">
+<IMG SRC="https://github.com/dfchunsring/yue/blob/master/img--3/dfh-2.jpg?raw=true" width=550></a><br></div>
+
 
 在台湾，法轮功修炼者达几十万，来自各行各业。退休校长黄丽医和妻子、女儿都从事教育工作，三人都修炼法轮功。 
 
@@ -203,12 +206,20 @@
 目前在中学教书的黄韵璇，四年前也开始修炼法轮功。那时她的课业、情感正陷入低谷，情绪波动很大。但在阅读法轮功的书籍之后，心情很快平静下来，尤其是感情的问题，她惊讶自己可以在很短的时间内坦然面对，豁然开朗。黄韵璇认识到，改变别人很难，但是可以向内修自己的心，改变自己，这样，事情的结果往往变得更好。她说：“我觉得越来越平静、幸福。”
 
 <hr>
-3
-芬兰音乐家与《金色的国度》
+
+<h1 align="center">	
+<td><a href="http://www.zhengjian.org/">芬兰音乐家与《金色的国度》</a></td></h1>
+  <div align="center">
+<IMG SRC="https://github.com/dfchunsring/yue/blob/master/img--3/dfh-3.jpg?raw=true" width=550></a><br></div>
+
 
 安娜·科克宁（Anna Kokkonen），芬兰民谣歌星，也被称为灵性歌手。2014年，她推出歌曲专辑《秘密花园》，其中《金色的国度》作为主打歌曲一曲成功，让她在芬兰著名的音乐台（Yle Radio Suomi）每周夺冠。随后，她的歌也穿越时空，传到了中国。 
 
 卷曲乌黑的长发，精灵般深邃的眼睛，歌声飘来，顷刻间空气凝固。她在诉说什么？芬兰语，音韵仿佛来自天外，她的明眸也慑住了人心。一组画面出现：双手捧起的莲花，铁窗、牢笼、妇女儿童，那些中国人……山间的清流静水，伴着歌声： 
+<h1 align="center">	
+<td><a href="http://www.zhengjian.org/">芬兰音乐家与《金色的国度》</a></td></h1>
+  <div align="center">
+<IMG SRC="https://github.com/dfchunsring/yue/blob/master/img--3/dfh--4.jpg?raw=true" width=550></a><br></div>
 <h1 align="center">	
 <td><a href="https://github.com/dfchunsring/yue/blob/master/epub--1/fldfhao.epub?raw=true">《金色的国度》.mp4</a></td></h1>
 
