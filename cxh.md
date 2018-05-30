@@ -518,7 +518,8 @@
 
 潘怡安希望还在参与迫害的人赶快清醒，快与中共邪党划清界限，争取立功赎罪，否则等到清算中共罪恶时，难逃被论罪判刑的下场。 
 
-
+  <div align="center">
+<IMG SRC="https://github.com/dfchunsring/yue/blob/master/img--3/dfh-13.jpg?raw=true" width=550></a><br></div>
 
 
 
