@@ -4,6 +4,17 @@
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img1/gin-0423.jpg?raw=true" width=880></a><br></div>
 </table>
 
+<h1 align="center">	
+<td><a href="https://github.com/dfchunsring/yue/blob/master/epub--1/fldfhao.epub?raw=true">法轮大法洪传世界-epub</a></td></h1></p>
+
+<table>
+  <tr>
+   <td align="center" width="500"><a href="https://github.com/dfchunsring/yue/blob/master/epub--1/fldfhao.epub?raw=true"><img src="https://github.com/dfchunsring/yue/blob/master/img/w-23.jpg?raw=true"></a>
+  <td align="center" width="450"><img src="https://github.com/dfchunsring/yue/blob/master/img-2/qr.ioi.tw.png?raw=true"></td>
+ 
+  </tr>
+  </table>
+
 <table>
   <tr>
 <td align="center" colspan="2"><h1><b><a href="https://github.com/dfchunsring/wer/blob/master/epgh.md">【突破封锁看世界】~翻墙软件*免费下载*</a></b></h1>
@@ -16,16 +27,6 @@
 <p></p>
 </table>
 
-<h1 align="center">	
-<td><a href="https://github.com/dfchunsring/yue/blob/master/epub--1/fldfhao.epub?raw=true">法轮大法洪传世界-epub</a></td></h1></p>
-
-<table>
-  <tr>
-   <td align="center" width="500"><a href="https://github.com/dfchunsring/yue/blob/master/epub--1/fldfhao.epub?raw=true"><img src="https://github.com/dfchunsring/yue/blob/master/img/w-23.jpg?raw=true"></a>
-  <td align="center" width="450"><img src="https://github.com/dfchunsring/yue/blob/master/img-2/qr.ioi.tw.png?raw=true"></td>
- 
-  </tr>
-  </table>
   <hr>
   
   <div align="center">
