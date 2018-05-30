@@ -216,13 +216,11 @@
 安娜·科克宁（Anna Kokkonen），芬兰民谣歌星，也被称为灵性歌手。2014年，她推出歌曲专辑《秘密花园》，其中《金色的国度》作为主打歌曲一曲成功，让她在芬兰著名的音乐台（Yle Radio Suomi）每周夺冠。随后，她的歌也穿越时空，传到了中国。 
 
 卷曲乌黑的长发，精灵般深邃的眼睛，歌声飘来，顷刻间空气凝固。她在诉说什么？芬兰语，音韵仿佛来自天外，她的明眸也慑住了人心。一组画面出现：双手捧起的莲花，铁窗、牢笼、妇女儿童，那些中国人……山间的清流静水，伴着歌声： 
-<h1 align="center">	
-<td><a href="http://www.zhengjian.org/">芬兰音乐家与《金色的国度》</a></td></h1>
-  <div align="center">
-<IMG SRC="https://github.com/dfchunsring/yue/blob/master/img--3/dfh--4.jpg?raw=true" width=550></a><br></div>
-<h1 align="center">	
-<td><a href="https://github.com/dfchunsring/yue/blob/master/epub--1/fldfhao.epub?raw=true">《金色的国度》.mp4</a></td></h1>
 
+<h1 align="center">	
+   <td align="center" width="550"><a href="https://github.com/dfchunsring/yue/blob/master/64-mp4/videodfh.mp4?raw=true"><img src="https://github.com/dfchunsring/yue/blob/master/img--3/dfh--4.jpg?raw=true"></a>
+<h3 align="center">	
+<td><a href="https://github.com/dfchunsring/yue/blob/master/64-mp4/videodfh.mp4?raw=true">《金色的国度》mp4</a></td></h3>
 “……那无辜的人被绑在笼中， 
 黑暗中她没有忘记自己是谁。 
 泪在流，她依旧讲述真相， 
@@ -296,8 +294,12 @@
 发稿：2016年5月11日
 
 <hr>
-4
-一个俄罗斯家庭的修炼故事
+
+<h1 align="center">	
+<td><a href="http://www.zhengjian.org/">一个俄罗斯家庭的修炼故事</a></td></h1>
+  <div align="center">
+<IMG SRC="https://github.com/dfchunsring/yue/blob/master/img--3/dfh-5.jpg?raw=true" width=550></a><br></div>
+
 
 【编者按】俄罗斯医生安德烈•萨罗达琴科（Andley Soldachenk）一家很有佛缘，他们看过许多修炼方面的书，也练过多种气功，但发现那都是表面的东西， 他们一直在寻找能真正修炼的法门和师父，终于如愿以偿。 
 
@@ -337,8 +339,11 @@
 
 看到那么多有缘人得法，更让我们感到大法的珍贵。 
 <hr>
-5
-找到了苦苦寻觅的东西
+<h1 align="center">	
+<td><a href="http://www.zhengjian.org/">找到了苦苦寻觅的东西</a></td></h1>
+  <div align="center">
+<IMG SRC="https://github.com/dfchunsring/yue/blob/master/img--3/dfh-6.jpg?raw=true" width=450></a><br></div>
+
 
 斯万（Sven）先生来自瑞典哥德堡（Gothenburg），他认定生命不仅是为了工作和生活，还有更深的意义，因此他始终在寻找，他学习过各种各样的气功和哲学理论，直到1995年遇到法轮功，他觉得找到了他一直在苦苦寻觅的东西。 
 
@@ -348,8 +353,11 @@
 
 斯万表示，他修炼法轮功之后，身心受益良多，他不能对中国发生的对法轮功的迫害袖手旁观。他说：“告诉别人这场迫害的真相是非常必要的，所以我把很多假期的时间都用在了这上面。” 
 <hr>
-6
-生命中最珍贵的礼物
+<h1 align="center">	
+<td><a href="http://www.zhengjian.org/">生命中最珍贵的礼物</a></td></h1>
+  <div align="center">
+<IMG SRC="https://github.com/dfchunsring/yue/blob/master/img--3/dfh-7.jpg?raw=true" width=550></a><br></div>
+
 
 艾西瓦娅塞（Aishwarya Sai）是一名印度大学生，来自印度中部大城市海得拉巴，19岁的她修炼法轮功已经13年。她 
 艾西瓦娅塞是家里的独生女儿，很小的时候就和爸爸一起修炼法轮功。她说：“2001年我上一年级的时候，我爸爸到我们学校介绍法轮功，全校的人一起学炼法轮功的功法。 
