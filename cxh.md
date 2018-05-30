@@ -435,7 +435,7 @@
 <h1 align="center">	
 <td><a href="http://www.zhengjian.org/">来自台湾恒春的感恩</a></td></h1>
   <div align="center">
-<IMG SRC="https://github.com/dfchunsring/yue/blob/master/img--3/dfh-7.jpg?raw=true" width=550></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/yue/blob/master/img--3/dfh-10.jpg?raw=true" width=550></a><br></div>
 <br>
 地处台湾最南端的恒春，是一个民风纯朴、四季如春的好地方。恒春三面环海，壮阔的海景、翠绿的大草原吸引着各方游客。这里每天清晨四点多，有一群纯朴的乡民，相约一起炼法轮功，迎接台湾第一道曙光，展开充满活力的一天。许多修炼的美好与奇迹，许多的感恩在心中，翁阿敏夫妇就是他们中的一员。 
 
