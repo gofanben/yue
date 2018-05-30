@@ -144,7 +144,7 @@
 <td><a href="http://www.xinsheng.net/">比利时“浪子”的人生转折</a></td></h1>
   <div align="center">
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/img--3/bzs-1.jpg?raw=true" width=550></a><br></div>
-
+<br>
 约翰．贝纳斯（Johan Bijnens）从小就是父母眼中的叛逆者和异类，喝酒、抽烟、吸毒、打架，他所喜欢的东西都是黑暗的，全家人对他都失望了。2007年约翰接触了法轮大法，看了《荷兰文版的《转法轮》，从此变了另外一个人，他的变化使哥哥、父亲也相继走進了大法。
 
 约翰是家中的小儿子，从14岁起，他就被社会上各种各样光怪陆离的生活方式所吸引，陷進去不能自拔。毒品，喝酒，欣赏最极端黑暗的艺术和音乐，并在其中尽情放纵自己，16岁时被学校赶了出来，干脆辍学了，在社会上游荡。所有的人对他都摇头，对他失望了。
@@ -191,7 +191,7 @@
 <td><a href="http://www.zhengjian.org/">台湾校长的修炼故事</a></td></h1>
   <div align="center">
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/img--3/dfh-2.jpg?raw=true" width=550></a><br></div>
-
+<br>
 
 在台湾，法轮功修炼者达几十万，来自各行各业。退休校长黄丽医和妻子、女儿都从事教育工作，三人都修炼法轮功。 
 
@@ -211,7 +211,7 @@
 <td><a href="http://www.zhengjian.org/">芬兰音乐家与《金色的国度》</a></td></h1>
   <div align="center">
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/img--3/dfh-3.jpg?raw=true" width=550></a><br></div>
-
+<br>
 
 安娜·科克宁（Anna Kokkonen），芬兰民谣歌星，也被称为灵性歌手。2014年，她推出歌曲专辑《秘密花园》，其中《金色的国度》作为主打歌曲一曲成功，让她在芬兰著名的音乐台（Yle Radio Suomi）每周夺冠。随后，她的歌也穿越时空，传到了中国。 
 
@@ -220,18 +220,18 @@
 <h1 align="center">	
    <td align="center" width="550"><a href="https://github.com/dfchunsring/yue/blob/master/64-mp4/videodfh.mp4?raw=true"><img src="https://github.com/dfchunsring/yue/blob/master/img--3/dfh--4.jpg?raw=true"></a>
 <h3 align="center">	
-<td><a href="https://github.com/dfchunsring/yue/blob/master/64-mp4/videodfh.mp4?raw=true">《金色的国度》mp4</a></td></h3>
-“……那无辜的人被绑在笼中， 
-黑暗中她没有忘记自己是谁。 
-泪在流，她依旧讲述真相， 
-思想的代价如鲜血般殷红。 
-你不能锁住我的心灵！ 
-她轻声说，带着一丝笑容。 
-将一支新的蜡烛点燃， 
-从一颗心传到另一颗心。 
-光明闪耀在烛炬后， 
-融化着人们脸上的冰霜。 
-那金色的国度……” 
+<td><a href="https://github.com/dfchunsring/yue/blob/master/64-mp4/videodfh.mp4?raw=true">《金色的国度》mp4</a></td></h3><br>
+“……那无辜的人被绑在笼中， <br>
+黑暗中她没有忘记自己是谁。 <br>
+泪在流，她依旧讲述真相， <br>
+思想的代价如鲜血般殷红。 <br>
+你不能锁住我的心灵！ <br>
+她轻声说，带着一丝笑容。 <br>
+将一支新的蜡烛点燃， <br>
+从一颗心传到另一颗心。 <br>
+光明闪耀在烛炬后， <br>
+融化着人们脸上的冰霜。 <br>
+那金色的国度……” <br>
 
 烛光蔓延向大地，忍耐、坚持和希望，她用歌声诉说。这就是歌曲《金色的国度》，音乐视频在网上流传。毫无疑问，对于中国观众来讲，此刻震撼的不是仅仅是她的天籁之音，更是她身后的中国人和“法轮大法”。也是这个原因，我接到了网友的推荐，电脑屏幕上，我第一次看到了她——安娜·科克宁。 
 
@@ -299,7 +299,7 @@
 <td><a href="http://www.zhengjian.org/">一个俄罗斯家庭的修炼故事</a></td></h1>
   <div align="center">
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/img--3/dfh-5.jpg?raw=true" width=550></a><br></div>
-
+<br>
 
 【编者按】俄罗斯医生安德烈•萨罗达琴科（Andley Soldachenk）一家很有佛缘，他们看过许多修炼方面的书，也练过多种气功，但发现那都是表面的东西， 他们一直在寻找能真正修炼的法门和师父，终于如愿以偿。 
 
@@ -344,7 +344,7 @@
   <div align="center">
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/img--3/dfh-6.jpg?raw=true" width=450></a><br></div>
 
-
+<br>
 斯万（Sven）先生来自瑞典哥德堡（Gothenburg），他认定生命不仅是为了工作和生活，还有更深的意义，因此他始终在寻找，他学习过各种各样的气功和哲学理论，直到1995年遇到法轮功，他觉得找到了他一直在苦苦寻觅的东西。 
 
 和很多瑞典人一样，斯万以前也经常喝几口酒，炼了法轮功之后，他并没有想戒酒，但身体发生了神奇变化，一闻酒的味道就受不了，自然而然就戒酒了。同时他的健康状况大大改善，50多岁的他，身体比20年以前还好，脸色白里透红。 
@@ -358,7 +358,7 @@
   <div align="center">
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/img--3/dfh-7.jpg?raw=true" width=550></a><br></div>
 
-
+<br>
 艾西瓦娅塞（Aishwarya Sai）是一名印度大学生，来自印度中部大城市海得拉巴，19岁的她修炼法轮功已经13年。她 
 艾西瓦娅塞是家里的独生女儿，很小的时候就和爸爸一起修炼法轮功。她说：“2001年我上一年级的时候，我爸爸到我们学校介绍法轮功，全校的人一起学炼法轮功的功法。 
 
