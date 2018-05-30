@@ -127,7 +127,7 @@
 </tr>
 </table>
 
- <h2 align="center"><td><a href="https://github.com/dfchunsring/wer/blob/master/xyrs-mp4/XYRS_s5--videos.mp4?raw=true">一位渐冻人见证大法神奇~</a></td></h2></p>
+ <h2 align="center"><td><a href="https://github.com/dfchunsring/wer/blob/master/xyrs-mp4/XYRS_s5--videos.mp4?raw=true">汪志远医师如何走出渐冻人的生命奇迹~</a></td></h2></p>
 
   <div align="center">
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/XYRS-img/XYRS-5.jpg?raw=true" width=550></a><br></div>
