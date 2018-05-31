@@ -37,7 +37,7 @@
 <td><a href="https://github.com/dfchunsring/yue/blob/master/zsjs-1.mp4/FaLun_hpass.mp4?raw=true">大法洪传-mp4</a></td></h1></p>
 
   <div align="center">
-<IMG SRC="https://github.com/dfchunsring/yue/blob/master/img--3/dfh-1-6.jpg?raw=true" width=800></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/yue/blob/master/img--3/dfh-1-12.jpg?raw=true" width=800></a><br></div>
 <p></p>
 
   <div align="center">
