@@ -549,8 +549,9 @@
 
 <h1 align="center">	
 <td><a href="http://www.zhengjian.org/">苦寻真法 心系华人</a></td></h1>
-<b>——一个德国人的寻道故事</b>
 
+<h3 align="center">	
+<td><a>——一个德国人的寻道故事</a></td></h3>
   <div align="center">
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/img--3/dfh-15.jpg?raw=true" width=550></a><br>
 蓝眼睛高个子的德国人法兰兹几十年苦寻真法，现在，他终于找到了。
