@@ -249,7 +249,7 @@
 
 愿不明真相的人赶紧了解真相，愿迫害过法轮功的人能弃恶从善，赎回自己与家人的未来。
 
-8
+
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/3tr.img/3tfe-8.jpg?raw=true" width=650></a><br></div>
 
