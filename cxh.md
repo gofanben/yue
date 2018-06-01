@@ -135,7 +135,9 @@
 </tr>
 </table>
 <hr>
-
+ 
+ <td><center><a href="https://github.com/dfchunsring/yue/blob/master/santui-mp3/santui-15.mp3?raw=true">修炼的故事. mp3</a></center></td>
+ 
  <h2 align="center"><td><a href="http://www.minghui.org/">一本伴随了我二十年的书</a></td></h2></p>
    <div align="center">
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/img--3/zfl-9.jpg?raw=true" width=650></a><br></div>
