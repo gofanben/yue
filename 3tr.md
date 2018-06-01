@@ -7,10 +7,10 @@
 
 <p>
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/yue/blob/master/3tr.img/3tfe-1.jpg?raw=true" width=650></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/yue/blob/master/3tr.img/3tfe-1.jpg?raw=true" width=750></a><br></div>
 
-<h2 align="center">	
-<td><a href="https://github.com/dfchunsring/yue/blob/master/santui-mp3/santui-1.mp3?raw=true">“三退”才能上“方舟”</a></td></h2>
+<h1 align="center">	
+<td><a href="https://github.com/dfchunsring/yue/blob/master/santui-mp3/santui-1.mp3?raw=true">“三退”才能上“方舟”</a></td></h1>
 
 亲爱的朋友，您可能听说过“诺亚方舟”，然而您知道吗？它不只是一个传说，而是被《圣经》记载下来的历史。《圣经》作为基督教的经典，其作者身份包括先知、使徒、祭司，也有君王和专职史官等，而且据悉所有作者都是得到“上帝默示”的。
 
@@ -83,7 +83,7 @@
   
 </table>
 
-<
+<hr>
 
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/3tr.img/3tfe-2.jpg?raw=true" width=650></a><br></div>
