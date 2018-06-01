@@ -8,7 +8,7 @@
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/img/17_222010.jpg?raw=true" width=880></a><br></div>
  </br>
   <a name=list><h2><b>目錄</b></h2><p>
- 
+ <h3>
 <a href="#18">18.《真实的江泽民》第十一章（上）</a><br>
 <a href="#19">19.《真实的江泽民》第十一章（下）</a><br>
 <a href="#20">20.《真实的江泽民》第十二章（上）</a><br>
@@ -19,8 +19,8 @@
 <a href="#25">25.《真实的江泽民》第十三章(下)</a><br>
 <a href="#26">26.《真实的江泽民》第十四章 文明的希望</a><br>
 <a href="#27">27.《真实的江泽民》结语</a><br>
-
-<a href=https://git.io/czz><h6 align="right">回首頁</h6></a>
+ </h3>
+<a href=https://git.io/czz><h5 align="right">回首頁</h5></a>
 <hr>
 <a name=18><h1 align="center"><b>《真实的江泽民》第十一章（上）</b></h1>
 <h2 align="center"><b>贪战中的“中国模式”（上）</b></h2>
