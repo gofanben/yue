@@ -46,8 +46,9 @@
   法轮修炼大法是由法轮佛法大师李洪志先生创编的佛家上乘修炼大法，“是同化宇宙最高特性‘真、善、忍’为根本，以宇宙最高特性为指导，按照 宇宙演化原理而修炼，所以我们修的是大法大道。”李洪志大师论述法轮佛法的著作已经公开发表的有《法轮功》、《转法轮》、《转法轮（卷二）》、《法轮大法 义解》、《法轮大法　大圆满法》、《法轮大法　精進要旨》、《法轮大法　悉尼法会讲法》、《法轮大法　美国法会讲法》和《转法轮法解》等四十五本，这些著作已经译成三十多种外文版，在全世界发行和传播.....
 
 <p></p>
+<h2 align="center">	
+<td><a href="http://www.minghui.org/">一、什么是法轮功</a></td></h2></p>
 
-<h2>一、什么是法轮功</h2>
 
 法轮功也称法轮大法，是由李洪志先生于一九九二年五月传出的佛家上乘修炼大法，以宇宙最高特性“真善忍”为根本指导，按照宇宙演化原理而修炼。经亿万人的修炼实践证明，法轮大法是大法大道，在把真正修炼的人带到高层次的同时，对稳定社会、提高人们的身体素质和道德水准，也起到了不可估量的正面作用。
 
@@ -63,7 +64,8 @@
 
 所以说，法轮大法在理论上完全不同于传统的修炼方法，不同于各家、各门派的炼丹学说。法轮大法修炼分为世间法和出世间法等诸多层次。修炼一开始就处在很高的起点上，为修炼者和修炼多年而不长功的人提供了一个最方便的法门。当修炼者的功力和心性达到一定层次后，实现在世间修成金刚不坏之体，达到开功开悟，整体升华到高层次。大志者学正法，得正果，提高心性，去掉执著方为圆满。
 
-<h2>二、如何开始学炼法轮功？</h2>
+<h2 align="center">	
+<td><a href="http://www.minghui.org/">二、如何开始学炼法轮功？</a></td></h2></p>
 
 开始学炼法轮功，也就是开始修炼了。“修炼”二字，同时包括两方面内容：修——修炼心性，炼——炼功。
 
@@ -71,8 +73,9 @@
 
 那么既然要修心，就要有相应的法理作为指导。法轮大法的最主要著作《转法轮》里，包含了从修炼入门到修炼圆满所需的一切法理。学炼者只要不断的、反复的通读《转法轮》，就会逐渐领悟到修炼所需的许许多多的高深内涵。
 
+<h2 align="center">	
+<td><a href="http://gb.falundafa.org/">改变您一生的~万古奇书- 《转法轮》</a></td></h2></p>
 
-<h2 align="center"><b>改变您一生的~万古奇书- 《转法轮》</b></h2>
   <div align="center">
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/img-2/zflen-1.jpg?raw=true" width=650></a><br></div>
 
@@ -83,8 +86,10 @@
 网络版《转法轮》请见：http://falundafa.org/book/chigb/zfl.htm
 
 <h3>2、炼功</h3>
+<h2 align="center">	
+<td><a href="http://www.minghui.org/">五套功法展示</a></td></h2></p>
 
-<h2 align="center"><b>五套功法展示</b></h2>
+
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/img-2/flg-1-page.jpg?raw=true" width=880></a><br></div>
 
@@ -129,7 +134,7 @@
 </table>
 <hr>
 
- <h2 align="center"><td><a href="http://www.xinsheng.net/">一本伴随了我二十年的书</a></td></h2></p>
+ <h2 align="center"><td><a href="http://www.minghui.org/">一本伴随了我二十年的书</a></td></h2></p>
    <div align="center">
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/img--3/zfl-9.jpg?raw=true" width=650></a><br></div>
  
@@ -247,7 +252,7 @@
 <hr>
 
 <h1 align="center">	
-<td><a href="http://www.zhengjian.org/">台湾校长的修炼故事</a></td></h1>
+<td><a href="http://www.ntdtv.com.tw/program/%E4%B9%9D%E8%A9%95%E5%85%B1%E7%94%A2%E9%BB%A8">台湾校长的修炼故事</a></td></h1>
   <div align="center">
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/img--3/dfh-2.jpg?raw=true" width=550></a><br></div>
 <br>
@@ -355,7 +360,7 @@
 <hr>
 
 <h1 align="center">	
-<td><a href="http://www.zhengjian.org/">一个俄罗斯家庭的修炼故事</a></td></h1>
+<td><a href="http://www.epochtimes.com/gb">一个俄罗斯家庭的修炼故事</a></td></h1>
   <div align="center">
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/img--3/dfh-5.jpg?raw=true" width=550></a><br></div>
 <br>
@@ -399,7 +404,7 @@
 <b>看到那么多有缘人得法，更让我们感到大法的珍贵。</b> 
 <hr>
 <h1 align="center">	
-<td><a href="http://www.zhengjian.org/">找到了苦苦寻觅的东西</a></td></h1>
+<td><a href="http://www.ntdtv.com.tw/program/">找到了苦苦寻觅的东西</a></td></h1>
   <div align="center">
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/img--3/dfh-6.jpg?raw=true" width=450></a><br></div>
 
@@ -434,7 +439,7 @@
 艾西瓦娅塞庆幸自己生长在一个自由的国家，“我有信仰的自由，可以炼我喜欢的功法，过我想过的生活。但是共产党不给人们自由，法轮功学员按照真、善、忍做好人，就被投入监狱，被酷刑折磨，‘真、善、忍’有什么错？每个人都有选择生活的自由，这场持续了十六年的迫害必须终止。”她说。 
 <hr>
 <h1 align="center">	
-<td><a href="http://www.zhengjian.org/">梅开五福</a></td></h1>
+<td><a href="http://www.minghui.org/">梅开五福</a></td></h1>
   <div align="center">
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/img--3/dfh-11.jpg?raw=true" width=550></a><br></div>
 <br>
@@ -480,7 +485,7 @@
 
 <hr>
 <h1 align="center">	
-<td><a href="http://www.zhengjian.org/">台湾警察的故事与忠告</a></td></h1>
+<td><a href="http://www.soundofhope.org/">台湾警察的故事与忠告</a></td></h1>
   <div align="center">
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/img--3/dfh-12.jpg?raw=true" width=550></a><br></div>
 <br>
