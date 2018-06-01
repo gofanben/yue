@@ -45,7 +45,7 @@
   
 </table>
 
-1
+<p>
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/3tr.img/3tfe-1.jpg?raw=true" width=650></a><br></div>
 
@@ -77,7 +77,7 @@
 
 目前蔚为壮观的“三退大潮”，就是法轮大法为曾经加入过中共邪党组织的人们开创的“三退保命”、值得您万分珍惜的宝贵机缘。中国老百姓有句话说“过了这个村，可没有这个店儿”。早退早平安，谁退谁平安，不退很危险！截至二零一七年三月，在大纪元退党网站声明“三退”的人数，已超过二亿六千万人。命悬一线，生死一念。真心盼望您早一天明白真相，早一天登上当代诺亚方舟，躲过日益逼近的生死劫难。
 
-2
+<hr>
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/3tr.img/3tfe-2.jpg?raw=true" width=650></a><br></div>
 
@@ -97,7 +97,7 @@
 
 是啊，被中共欺骗的人，就象沙坑里的小鱼，当天灭中共到来时，就成了中共的陪葬品。法轮功学员所做的，就是让生命回归大海。亲爱的朋友，请接受法轮功学员的帮助吧，让我们用善良撑起人类的天空。
 
-3
+<hr>
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/3tr.img/3tfe-3.jpg?raw=true" width=650></a><br></div>
 
@@ -132,7 +132,7 @@
 
 亲爱的朋友，希望您也记住九字吉言，法轮大法好，真善忍好，在危难的时候念，也会给您带来奇迹哦！
 
-4
+<hr>
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/3tr.img/3tfe-4.jpg?raw=true" width=650></a><br></div>
 
@@ -155,7 +155,7 @@
 
 法轮功学员在被抓、被打、被虐杀的情况下，还在无怨无悔地帮助着迷茫的百姓，这是修炼者慈悲的体现。因为他们知道，退出中共的人，就是夺回了“卖身契”、拿回了自己的生命。杨白劳的“卖身契”是假的，中共索命的“卖身契”却是真的。何去何从？请您一定要明断。
 
-5
+<hr>
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/3tr.img/3tfe-5.jpg?raw=true" width=650></a><br></div>
 
@@ -200,7 +200,7 @@
 
 办理“三退”的方法是：登录大纪元网站或全球退党服务中心，发表“三退”声明（小名、化名均可，神佛只见人心），获得退党证书，以证明声明者脱离共产党及其相关组织。给自己留下广阔的生路。 
  
-6
+<hr>
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/3tr.img/3tfe-6.jpg?raw=true" width=650></a><br></div>
 
@@ -230,7 +230,7 @@
 作为公民，您也许改变不了暴政，但可以选择善良和正义。千万不要成为暴政利用的工具，那对国家、对社会、对自己都是可怕的。而善待法轮大法及其修炼者就是在做最大的善事，不但福报自己还会福荫子孙！亲爱的朋友，真心祝愿您和家人平安、幸福！
 
 
-7
+<hr>
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/3tr.img/3tfe-7.jpg?raw=true" width=650></a><br></div>
 
@@ -268,7 +268,7 @@
 
 “善恶有报”是天理。迫害法轮功的人，如不及时醒悟悔改，报应上身是早晚的事。我们为贾景泉不明白、不接受法轮功真相，分不清善恶而惋惜，而其他两个村书记在中共打压迫害法轮功中选择了善良，选择了生存之路，也是选择了好的未来。
 
-9
+<hr>
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/3tr.img/3tfe-9.jpg?raw=true" width=650></a><br></div>
 
@@ -299,7 +299,7 @@
 
 <b>亲爱的朋友，希望您也能够平平安安，愿好人都平安。</b>
 
-10
+<hr>
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/3tr.img/3tfe-10.jpg?raw=true" width=650></a><br></div>
 
@@ -324,7 +324,7 @@
 
 善良的法轮功没要我们一分钱，却挽救了我妈妈的生命，愿所有人都能象我妈妈一样的幸运。
 
-11
+<hr>
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/3tr.img/3tfe-11.jpg?raw=true" width=650></a><br></div>
 
@@ -367,7 +367,7 @@
 说完，老张就走进卧室，见外孙进来，拉着外孙的手说：“宝啊，多亏你妈炼法轮功啦，法轮功可真好啊！”一抬头见女儿过来，还有点不好意思。女儿说：“爸，我给你起个化名，把党退了吧！”老张直说：“好、好，退了吧！”
 
 
-12
+<hr>
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/3tr.img/3tfe-12.jpg?raw=true" width=650></a><br></div>
 
@@ -390,7 +390,7 @@
 徐佩玲说，现在老百姓也在觉醒，不相信共产党了，不再相信！最后她表示：我看只有共产党灭了，我们才有希望！ 
 
 
-13
+<hr>
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/3tr.img/3tfe-13.jpg?raw=true" width=650></a><br></div>
 
