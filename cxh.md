@@ -346,8 +346,6 @@
   <h1 align="center">	
 <td><a href="https://github.com/dfchunsring/yue/blob/master/zsjs-1.mp4/FaLun_hpass.mp4?raw=true">大法洪传-mp4</a></td></h1></p>
 
-  <div align="center">
-<IMG SRC="https://github.com/dfchunsring/yue/blob/master/img--3/dfh-1-12.jpg?raw=true" width=800></a><br></div>
 <br> 
 
   <h2 align="center"><td><a href="https://github.com/dfchunsring/yue/blob/master/santui-mp3/santui-15.mp3?raw=true">在世界各地都能听到他们的故事~~修炼人的故事~</a></td></h2></p>
