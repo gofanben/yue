@@ -32,12 +32,7 @@
   <div align="center">
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/img-2/falen1.jpg?raw=true" width=350></a><br></div>
 
-  
-  <h1 align="center">	
-<td><a href="https://github.com/dfchunsring/yue/blob/master/zsjs-1.mp4/FaLun_hpass.mp4?raw=true">大法洪传-mp4</a></td></h1></p>
 
-  <div align="center">
-<IMG SRC="https://github.com/dfchunsring/yue/blob/master/img--3/dfh-1-12.jpg?raw=true" width=800></a><br></div>
 <p></p>
 
   <div align="center">
@@ -347,6 +342,13 @@
 二十五年来，法轮大法的传奇，记录了身体和心灵的故事，涵盖了生命和未来的篇章，揭示了星球和宇宙的奥秘。今日，中共对法轮功的迫害仍未停止。当善良与邪恶对峙，当真理于阴霾中闪光，让我们回顾、仰望—一股清流，脉脉流淌，浸润红尘；一方净土，于俗世开拓，广纳众生。辉煌，从神州发源，展现生命的奇迹，迸发心灵的欢呼。震撼与思考，四海回荡；高德大法，威扬十方。
 
 <hr>
+  
+  <h1 align="center">	
+<td><a href="https://github.com/dfchunsring/yue/blob/master/zsjs-1.mp4/FaLun_hpass.mp4?raw=true">大法洪传-mp4</a></td></h1></p>
+
+  <div align="center">
+<IMG SRC="https://github.com/dfchunsring/yue/blob/master/img--3/dfh-1-12.jpg?raw=true" width=800></a><br></div>
+<br> 
 
   <h2 align="center"><td><a href="https://github.com/dfchunsring/yue/blob/master/santui-mp3/santui-15.mp3?raw=true">在世界各地都能听到他们的故事~~修炼人的故事~</a></td></h2></p>
   <br> 
