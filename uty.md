@@ -105,7 +105,7 @@
 <h1 align="center">	
 <td><a href="https://github.com/dfchunsring/wer/blob/master/downldoad/Reasily1802h.apk?raw=true">阅读电子书请先下载Reasily阅读器,</a></td></h1></p>	
 
-<h1 align="center"><td><a href="https://git.io/duun">了解更多真相~有福报~</a></td></h1></p>
+<h1 align="center"><td><a href="https://git.io/duun">了解真相有福报~点击连结看更多...</a></td></h1></p>
 
 <h2 align="center"><td><a href="https://github.com/dfchunsring/yue/blob/master/epub--1/goalCh.mp4.epub?raw=true">12个视频影像书的下载点~方便您聆听、观赏的.mp4</a></td></h2></p>
 
