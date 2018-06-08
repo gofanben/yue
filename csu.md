@@ -6,6 +6,9 @@
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/img/17_222010.jpg?raw=true" width=880></a><br></div>
  </br>
  <hr>
+ 
+ <a href=https://git.io/duun><h6 align="right">回首頁</h6></a>
+ 
  <td><h1><a href='https://git.io/duun'> 点击连结~看更多~</a></h1></td>
 
 <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/epgh.md'>翻墙软件*免费下载*</a></h2></td><p></p>
