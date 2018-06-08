@@ -27,6 +27,7 @@
 <p></p>
 </table>
 <a href=https://git.io/duun><h6 align="right">回首頁</h6></a>
+<a href=https://git.io/czz><h6 align="right">回首頁</h6></a>
   <hr>
   
   <div align="center">
