@@ -348,9 +348,11 @@
   <h1 align="center">	
 <td><a href="https://github.com/dfchunsring/yue/blob/master/zsjs-1.mp4/FaLun_hpass.mp4?raw=true">大法洪传-mp4</a></td></h1></p>
 
+  <h1 align="center">	
+<td><a href="http://www.beyondfirewall.com/2015/07/360.html">百度与360网惊现法轮大法洪传世界震撼图片</a></td></h1></p>
 
   <div align="center">
-<IMG SRC="https://github.com/dfchunsring/yue/blob/master/img--3/bd--b.jpg?raw=true" width=850></a><br>7月17日，在大陆百度搜索“洪传世界”四个字，结果呈现大量法轮功洪传世界的消息和震撼画面。（网络截图）</div>
+<IMG SRC="https://github.com/dfchunsring/yue/blob/master/img--3/bd--0.jpg?raw=true" width=850></a><br>7月17日，在大陆百度搜索“洪传世界”四个字，结果呈现大量法轮功洪传世界的消息和震撼画面。（网络截图）</div>
 <p></p>
 【大纪元2015年07月18日讯】（大纪元记者唐文综合报导）7月17日，在大陆<td><a href="http://www.epochtimes.com/">百度</a></td>与360网搜索“洪传世界”四个字，结果呈现大量法轮功洪传世界的消息和震撼画面。7月12日与14日，百度与360网曾解禁<td><a href="http://www.epochtimes.com/gb/">“诉江大潮”</a></td>、“下一个大老虎是江泽民”。
 <p></p>
