@@ -20,14 +20,14 @@
 </table>
 <table>
 <tr>	
- <td  width="293"><h3><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1802.zip?raw=true'>无界浏览18.02正式版 .zip</a></h3></td>
+ <td  width="294"><h3><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1802.zip?raw=true'>无界浏览18.02正式版 .zip</a></h3></td>
  <td  width="293"><h3><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1802.exe?raw=true'>无界浏览18.02正式版 .exe</a></h3></td>
  <td  width="293"><h3><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1704.zip?raw=true'>无界浏览.桌机版1704.zip</a></h3></td>	
 </tr>
 </table>
 <table>
 <tr>
-<td  width="293"><h3><a href='https://github.com/dfchunsring/drdr/blob/master/fg/fangqian.epub?raw=true'>下载详细说明书-epub</a></h3></td>
+<td  width="294"><h3><a href='https://github.com/dfchunsring/drdr/blob/master/fg/fangqian.epub?raw=true'>下载详细说明书-epub</a></h3></td>
 <td  width="293"><h3><a href='https://github.com/goodabc/GCC/blob/master/fangqian.md'>翻墙软件~免费下载~</a></h2></td>
 <td  width="293"><h3><a href='https://github.com/dfchunsring/wer/blob/master/fq/um4.5.apk?raw=true'>无界浏览.安卓版4.5.apk</a></h3></td>		
 </tr>
