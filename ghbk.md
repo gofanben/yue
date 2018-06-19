@@ -151,6 +151,11 @@
 <a href=#list><h6 align="right">回目錄</h6></a> 
 <hr> 
 
+<table>
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/yue/blob/master/img/hpbook-1.jpg?raw=true" width=700></a><br></div>
+</table>
+
 <a name=2><h2 align="center"><b>《共产主义黑皮书》导论之一：共产主义罪行</b></h2>
   
   <h5 align="center"><b>作者：史蒂芬‧库托伊斯</b></h5>
