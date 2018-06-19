@@ -6,7 +6,7 @@
 
 <table>
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/yue/blob/master/img/hpbook-1.jpg?raw=true" width=700></a><br>大纪元获得授权翻译、发行《共产主义黑皮书》中文版。（大纪元制图）</div>
+<IMG SRC="https://github.com/dfchunsring/yue/blob/master/img/hpbook-1.jpg?raw=true" width=700></a><br></div>
 </table>
 
  <td><h3><a href='https://git.io/zb'>了解真相有福报~看更多</a></h3> </td></b>
@@ -65,6 +65,11 @@
 <a name=1><h1 align="center"><b>《共产主义黑皮书》前言之一：暴行的使用</b></h1>
 
 <h4 align="center"><b>作者：马丁‧玛利亚</b></h4>
+
+<table>
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/yue/blob/master/img/hpbook-1.jpg?raw=true" width=700></a><br>大纪元获得授权翻译、发行《共产主义黑皮书》中文版。（大纪元制图）</div>
+</table>
 
 【大纪元2018年1月01日讯】（编者按：《共产主义黑皮书》依据原始档案资料，系统地详述了共产主义在世界各地制造的“罪行、恐怖和镇压”。本书1997年在法国首度出版后，震撼欧美，被誉为是对“一个世纪以来共产主义专制的真正里程碑式的总结”。大纪元和博大出版社获得本书原著出版方签约授权，翻译和发行中文全译本。大纪元网站率先连载，以飨读者。文章标题为编者所加。）
 
