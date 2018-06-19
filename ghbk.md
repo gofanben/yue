@@ -8,6 +8,30 @@
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/img/hpbook-1.jpg?raw=true" width=700></a><br></div>
 </table>
 
+ <td><h3><a href='https://git.io/zb'>了解真相有福报~看更多</a></h3> </td></b>
+<td><h3><a href='https://github.com/dfchunsring/wer/blob/master/epgh.md'>【突破封锁看世界】~翻墙软件*免费下载*</a></h3></td></b>
+<table>
+<tr>	
+<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/phpn.md'>火狐,Chrome浏览器~免费下载~下载浏览器~请先翻墙~</a><h2></td></td></b> 
+<td><h2><a href='https://git.io/orhb'>阅读率最高的epub电子书~免费下载</a><h2></td></td></b>
+<td><h2> <a href='https://github.com/dfchunsring/yue/blob/master/uty.md'>《九评》编辑部：《共产主义的终极目的》</a></h2></td></b>
+</tr>
+</table>
+<table>
+<tr>	
+ <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1802.zip?raw=true'>无界浏览18.02正式版 .zip</a></h2></td>
+ <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1802.exe?raw=true'>无界浏览18.02正式版 .exe</a></h2></td>
+ <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1704.zip?raw=true'>无界浏览.桌机版1704.zip</a></h2></td>	
+</tr>
+</table>
+<table>
+<tr>
+<td><h2><a href='https://github.com/dfchunsring/drdr/blob/master/fg/fangqian.epub?raw=true'>下载详细说明书-epub</a></h2></td>
+<td><h2><a href='https://github.com/goodabc/GCC/blob/master/fangqian.md'>翻墙软件~免费下载~</a></h2></td>
+ <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/fq/um4.5.apk?raw=true'>无界浏览.安卓版4.5.apk</a></h2></td>		
+</tr>
+</table>
+
 <a name=list><b>目錄</b><p>
 <div class="title">	
 <a href="#1">1.《共产主义黑皮书》前言之一 ~ 三</a><p> 
