@@ -9,7 +9,7 @@
 </table>
 
 <a name=list><b>目錄</b><p>
-
+<div class="title">	
 <a href="#1">1.《共产主义黑皮书》前言之一 ~ 三</a><p> 
 <a href="#2">2.《共产主义黑皮书》导论之一 ~ 九</a><p>
 <a href="#3">3.XXXXXXXXXX</a><p>
@@ -27,7 +27,7 @@
 <a href="#3">3.XXXXXXXXXX</a><p>
 <a href="#4">4.XXXXXXXXXXX</a><p>
 <a href="#5">5.XXXXXXXXXXXX</a><p>  
-
+</div>	
 <a name=1><h2 align="center"><b>《共产主义黑皮书》前言之一：暴行的使用</b></h2>
 
 <h5 align="center"><b>作者：马丁‧玛利亚</b></h5>
