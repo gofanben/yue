@@ -40,6 +40,8 @@
   <div align="center">
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/img-2/df-3-1.jpg?raw=true" width=450></a><br></div>
 
+<td><h3><a href="https://github.com/dfchunsring/wer/blob/master/epub-1/25th-anniversary.epub?raw=true" width=270>法轮大法洪传25周年精选短片-epub</a></h3></td>
+
  法轮修炼大法是由法轮佛法大师 <td><a href="https://github.com/dfchunsring/yue/blob/master/zsjs-1.mp4/falunhh.mp4?raw=true">李洪志</a></td>先生创编的佛家上乘修炼大法，“是同化宇宙最高特性‘真、善、忍’为根本，以宇宙最高特性为指导，按照 宇宙演化原理而修炼，所以我们修的是大法大道。”李洪志大师论述法轮佛法的著作已经公开发表的有《法轮功》、《转法轮》、《转法轮（卷二）》、《法轮大法 义解》、《法轮大法　大圆满法》、《法轮大法　精進要旨》、《法轮大法　悉尼法会讲法》、《法轮大法　美国法会讲法》和《转法轮法解》等四十五本，这些著作已经译成三十多种外文版，在全世界发行和传播.....
 
 <p></p>
