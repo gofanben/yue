@@ -16,6 +16,37 @@
   </table>
 
 <table>
+<tr>
+	<td><center><a href="https://github.com/dfchunsring/drdr/blob/master/mp4/25anniversary-1.mp4?raw=true" width=270>“【25周年专题】感谢李洪志师父 mp4</a></center></td>
+	<td><center><a href="https://github.com/dfchunsring/drdr/blob/master/mp4/25anniversary-2.mp4?raw=true" width=270>【25周年专题】回顾〝720〞：中共开始镇压法轮功 mp4</a></center></td>
+	<td><center><a href="https://github.com/dfchunsring/drdr/blob/master/mp4/25anniversary-3.mp4?raw=true" width=270>【25周年专题】欧美亚政界谴责活摘.mp4</a></center></td>
+</tr>
+
+<tr>
+	<td><center><a href="https://github.com/dfchunsring/drdr/blob/master/mp4/25anniversary-4.mp4?raw=true" width=270>“【25周年专题】《九评》奇书封不住 mp4</a></center></td>
+	<td><center><a href="https://github.com/dfchunsring/drdr/blob/master/mp4/25anniversary-5.mp4?raw=true" width=270>【25周年专题】《九评共产党》简介 mp4</a></center></td>
+	<td><center><a href="https://github.com/dfchunsring/drdr/blob/master/mp4/25anniversary-6.mp4?raw=true" width=270>【25周年专题】大陆民众三退心声 mp4</a></center></td>
+</tr>
+
+<tr>
+	<td><center><a href="https://github.com/dfchunsring/drdr/blob/master/mp4/25anniversary-7.mp4?raw=true" width=270>“【25周年专题】中共党官体系附体中国 成巨大财政负担 mp4</a></center></td>
+	<td><center><a href="https://github.com/dfchunsring/drdr/blob/master/mp4/25anniversary-8.mp4?raw=true" width=270>【25周年专题】法轮大法学员壮观〝排字〞 mp4</a></center></td>
+	<td><center><a href="https://github.com/dfchunsring/drdr/blob/master/mp4/25anniversary-9.mp4?raw=true" width=270>【25周年专题】2017法轮大法日纽约大游行1分钟集锦 mp4</a></center></td>
+</tr>
+
+<tr>
+	<td><center><a href="https://github.com/dfchunsring/drdr/blob/master/mp4/25anniversary-10.mp4?raw=true" width=270>“【25周年专题】〝法轮大法日〞简介 mp4</a></center></td>
+	<td><center><a href="https://github.com/dfchunsring/drdr/blob/master/mp4/25anniversary-11.mp4?raw=true" width=270>【25周年专题】法轮功简介 mp4</a></center></td>
+	<td><center><a href="https://github.com/dfchunsring/drdr/blob/master/mp4/25anniversary-12.mp4?raw=true" width=270>【25周年专题】李洪志大师简介 mp4</a></center></td>
+</tr>
+
+<tr>
+	<td><center><a href="https://github.com/dfchunsring/drdr/blob/master/mp4/25anniversary-13.mp4?raw=true" width=270>“【25周年专题】法轮大法洪传世界 mp4</a></center></td>
+	<td><center><a href="https://github.com/dfchunsring/drdr/blob/master/mp4/25anniversary-14.mp4?raw=true" width=270>【25周年专题】《转法轮》简介 mp4</a></center></td>
+	<td><center><a href="https://github.com/dfchunsring/drdr/blob/master/mp4/25anniversary-15.mp4?raw=true" width=270>【25周年专题】武术冠军为何放弃数十年苦功 从零开始? mp4</a></center></td>
+</tr>
+ </table>
+<table>
   <tr>
 <td align="center" colspan="2"><h1><b><a href="https://github.com/dfchunsring/wer/blob/master/epgh.md">【突破封锁看世界】~翻墙软件*免费下载*</a></b></h1>
  </tr>
