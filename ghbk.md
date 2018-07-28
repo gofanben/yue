@@ -15,7 +15,7 @@
 
 <td><h3><a href="https://github.com/dfchunsring/wer/blob/master/epub/bnhhv605.epub?raw=true" width=270>【百年红祸】特别专题epub</a></h3></td>
 
-<h3>《九评》编辑部：</h3>
+<h3 align="center">《九评》编辑部：</h3></p>
 <td><h3> <a href='https://github.com/dfchunsring/yue/blob/master/uty.md'>《共产主义的终极目的》</a></h3></td></b>
 
 <h3 align="center">	
@@ -23,7 +23,10 @@
 
 <h3 align="center">	
 <td><h3><a href="https://github.com/dfchunsring/wer/blob/master/downldoad/hpbook-1.epub?raw=true">《共产主义黑皮书》-epub</a></h3></td></h3></p>
+
+
 <table>
+	<h3 align="center">翻墙软件~免费下载</h3></p>
 <tr>	
  <td><h3><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1802.zip?raw=true'>无界浏览18.02正式版 .zip</a></h3></td>
  <td><h3><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1802.exe?raw=true'>无界浏览18.02正式版 .exe</a></h3></td>
@@ -35,7 +38,7 @@
 
 
 <table>
-	<h2 align="center">爱博电视免费下载</h2></p>
+	<h3 align="center">爱博电视免费下载</h3></p>
 <tr>
 	<td  width="220"><td><h3><a href='https://github.com/gofun72/telove/blob/master/she-1.md'>新唐人韩星五号参数</a></h3></td>
 	<td  width="220"><td><h3><a href='https://github.com/dfchunsring/drdr/blob/master/fg/Green_iPPOTV.exe?raw=true'>爱博电视IPPOTV安装软件</a></h3></td>
