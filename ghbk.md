@@ -25,7 +25,7 @@
 
 <h5 align="center">大纪元</h5></p>
 <h5 align="center">2005年1月12日</h5></p>
-
+<hr> 
 <table><tr>
 <h3 align="center">《九评》编辑部：</h3></p>
 <td><h3> <a href='https://github.com/dfchunsring/yue/blob/master/uty.md'>《共产主义的终极目的》</a></h3></td></b>
@@ -57,7 +57,7 @@
 	<td  width="220"><td><h3><a href='https://github.com/dfchunsring/drdr/blob/master/intdv-installation-teaching/iPPOTV.mp4?raw=true'>爱博桌机板安装教学.mp4</a></h3>
 	<td  width="220"><td><h3><a href='https://github.com/dfchunsring/yue/blob/master/fq/2.1.12sp1%20.iNTD_TV(apk)iNTD_TV.apk?raw=true'>安卓版2.1.12sp1 .iNTD_TV(apk)</a></h3></td>
 </td></tr>
-</table>
+</table><hr> 
 <h2 align="center">真相大白于天下的时候 你损失了什么</h2></p>
 
 <b>网络上流传着这么一个故事：</b>
