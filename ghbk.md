@@ -14,6 +14,18 @@
 <td><a href="https://github.com/dfchunsring/wer/blob/master/downldoad/Reasily1802h.apk?raw=true">阅读电子书请使用Reasily阅读器,请先下载</a></td></h1></p>	
 
 <td><h3><a href="https://github.com/dfchunsring/wer/blob/master/epub/bnhhv605.epub?raw=true" width=270>【百年红祸】特别专题epub</a></h3></td>
+
+<h3 align="center">大纪元郑重声明</h3></p>
+
+广大的中国民众：共产党的末日就要到了。但是这个邪恶的党（魔教）在历史上却对众生、对神佛犯下了滔天大罪，神一定要清算这个恶魔。
+
+如果有一天，神指使人类的谁对共产党清算时，也一定不会放过那些所谓坚定的邪恶党徒。我们郑重声明：所有参加过共产党与共产党其它组织的 (被邪恶打上兽的印记的)人，赶快退出，抹去邪恶的印记。一旦谁对这个魔教清算时，大纪元储存的记录可以为声明退出共产党和共产党其它组织的人作证。
+
+天网恢恢，善恶分明；苦海有边，生死一念。曾被历史上最邪恶的魔教所欺骗的人，曾被邪恶打上兽的印记的人，请抓住这稍纵即逝的良机！
+
+<h5 align="center">大纪元</h5></p>
+<h5 align="center">2005年1月12日</h5></p>
+
 <table><tr>
 <h3 align="center">《九评》编辑部：</h3></p>
 <td><h3> <a href='https://github.com/dfchunsring/yue/blob/master/uty.md'>《共产主义的终极目的》</a></h3></td></b>
