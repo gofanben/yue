@@ -14,9 +14,17 @@
 	
 <td><h3><a href='https://github.com/dfchunsring/wer/blob/master/phpn.md'>火狐,Chrome浏览器~免费下载~下载浏览器~请先翻墙~</a></h3></td></td></b>
 <td><h3><a href='https://git.io/orhb'>阅读率最高的epub电子书~免费下载</a><h2></td></td></b>
-<td><h3> <a href='https://github.com/dfchunsring/yue/blob/master/uty.md'>《九评》编辑部：《共产主义的终极目的》</a></h3></td></b>
 
+<td><h3><a href="https://github.com/dfchunsring/wer/blob/master/epub/bnhhv605.epub?raw=true" width=270>【百年红祸】特别专题epub</a></h3></td>
 
+《九评》编辑部：
+<td><h3> <a href='https://github.com/dfchunsring/yue/blob/master/uty.md'>《共产主义的终极目的》</a></h3></td></b>
+
+<h3 align="center">	
+<td><h3><a href="https://github.com/dfchunsring/wer/blob/master/downldoad/espec.epub?raw=true">魔鬼在统治着我们的世界(全文)-epub</a></h3></td></h3></p>
+
+<h3 align="center">	
+<td><h3><a href="https://github.com/dfchunsring/wer/blob/master/downldoad/hpbook-1.epub?raw=true">《共产主义黑皮书》-epub</a></h3></td></h3></p>
 <table>
 <tr>	
  <td><h3><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1802.zip?raw=true'>无界浏览18.02正式版 .zip</a></h3></td>
