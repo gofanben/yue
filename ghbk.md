@@ -15,9 +15,12 @@
 <td><h3><a href='https://github.com/dfchunsring/wer/blob/master/phpn.md'>火狐,Chrome浏览器~免费下载~下载浏览器~请先翻墙~</a></h3></td></td></b>
 <td><h3><a href='https://git.io/orhb'>阅读率最高的epub电子书~免费下载</a><h2></td></td></b>
 
+<h1 align="center">	
+<td><a href="https://github.com/dfchunsring/wer/blob/master/downldoad/Reasily1802h.apk?raw=true">阅读电子书请使用Reasily阅读器,请先下载</a></td></h1></p>	
+
 <td><h3><a href="https://github.com/dfchunsring/wer/blob/master/epub/bnhhv605.epub?raw=true" width=270>【百年红祸】特别专题epub</a></h3></td>
 
-《九评》编辑部：
+<h3>《九评》编辑部：</h3>
 <td><h3> <a href='https://github.com/dfchunsring/yue/blob/master/uty.md'>《共产主义的终极目的》</a></h3></td></b>
 
 <h3 align="center">	
