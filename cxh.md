@@ -48,13 +48,12 @@
 	<td><center><a href="https://github.com/dfchunsring/drdr/blob/master/mp4/25anniversary-15.mp4?raw=true" width=270>【25周年专题】武术冠军为何放弃数十年苦功 从零开始? mp4</a></center></td>
 </tr>
  </table>
-<table>
-  <tr>
-<td align="center" colspan="2"><h1><b><a href="https://github.com/dfchunsring/wer/blob/master/epgh.md">【突破封锁看世界】~翻墙软件*免费下载*</a></b></h1>
- </tr>
 
-<p></p>
-</table>
+
+<td align="center" colspan="2"><h1><b><a href="https://github.com/dfchunsring/wer/blob/master/epgh.md">【突破封锁看世界】~翻墙软件*免费下载*</a></b></h1>
+
+
+
 
   <h2 align="center">	
 <td><a href="https://github.com/dfchunsring/drdr/blob/master/mp4/26anniversary-16.mp4?raw=true">法轮大法洪传26周年.mp4</a></td></h2></p>
