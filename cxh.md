@@ -1,7 +1,7 @@
 
 <table>
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/yue/blob/master/img/555-0.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/yue/blob/master/img/555-1.jpg?raw=true" width=880></a><br></div>
 </table>
 
 <h1 align="center">	
@@ -52,11 +52,7 @@
   <tr>
 <td align="center" colspan="2"><h1><b><a href="https://github.com/dfchunsring/wer/blob/master/epgh.md">【突破封锁看世界】~翻墙软件*免费下载*</a></b></h1>
  </tr>
- 
-<tr>
-        <td align="center" width="500"><a href="https://git.io/ubc"><img src="https://github.com/dfchunsring/wer/blob/master/img/89.jpg?raw=true"></a>
-  <td align="center" width="450"><img src="https://github.com/dfchunsring/yue/blob/master/img-2/qr-fg5.png?raw=true"></td>
-</tr>
+
 <p></p>
 </table>
 
