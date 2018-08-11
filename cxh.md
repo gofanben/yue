@@ -50,8 +50,9 @@
  </table>
 
 
-<td align="center" colspan="2"><h1><b><a href="https://github.com/dfchunsring/wer/blob/master/epgh.md">【突破封锁看世界】~翻墙软件*免费下载*</a></b></h1>
 
+  <h1 align="center">	
+<td><a href="https://github.com/dfchunsring/wer/blob/master/epgh.md">【突破封锁看世界】~翻墙软件*免费下载*</a></td></h1></p>
 
 
 
