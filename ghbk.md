@@ -33,7 +33,7 @@
 <hr> 
 <table><tr>
 <h3 align="center">《九评》编辑部：</h3></p>
-<td><h3> <a href='https://github.com/dfchunsring/yue/blob/master/uty.md'>《共产主义的终极目的》</a></h3></td></b>
+<td><h3 align="center"> <a href='https://github.com/dfchunsring/yue/blob/master/uty.md'>《共产主义的终极目的》</a></h3></td></b>
 
 <h3 align="center">	
 <td><h3><a href="https://github.com/dfchunsring/wer/blob/master/downldoad/espec.epub?raw=true">魔鬼在统治着我们的世界(全文)-epub</a></h3></td></h3></p>
@@ -49,9 +49,9 @@
 <table>
 
 <tr>	
- <td><h3><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1802.zip?raw=true'>无界浏览18.02正式版 .zip</a></h3></td>
- <td><h3><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1802.exe?raw=true'>无界浏览18.02正式版 .exe</a></h3></td>
- <td><h3><a href='https://github.com/dfchunsring/wer/blob/master/fq/um4.5.apk?raw=true'>无界浏览.安卓版4.5.apk</a></h3></td>
+ <td><h3 align="center"><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1802.zip?raw=true'>无界浏览18.02正式版 .zip</a></h3></td>
+ <td><h3 align="center"><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1802.exe?raw=true'>无界浏览18.02正式版 .exe</a></h3></td>
+ <td><h3 align="center"><a href='https://github.com/dfchunsring/wer/blob/master/fq/um4.5.apk?raw=true'>无界浏览.安卓版4.5.apk</a></h3></td>
 </tr>
 </table>
 
