@@ -14,9 +14,11 @@
 <td><a href="https://github.com/dfchunsring/wer/blob/master/downldoad/Reasily1802h.apk?raw=true">阅读电子书请使用Reasily阅读器,请先下载</a></td></h1></p>	
 
 <table>
-<td><h3><a href="https://github.com/dfchunsring/yue/blob/master/epub--1/whyTD-0523.epub?raw=true" width=440>为什么劝您退?因為你发了毒誓-epub</a></h3></td>	
-	
-<td><h3><a href="https://github.com/dfchunsring/wer/blob/master/epub/bnhhv605.epub?raw=true" width=440>【百年红祸】特别专题epub</a></h3></td>
+<td><h3><a href="https://github.com/dfchunsring/yue/blob/master/epub--1/whyTD-0523.epub?raw=true" width=290>为什么劝您退?因為你发了毒誓-epub</a></h3></td>	
+
+<td><h3><a href="https://github.com/dfchunsring/yue/blob/master/epub--1/huozhai_y.epub?raw=true" width=290>这个星球上前所未有的邪恶-epub</a></h3></td>
+
+<td><h3><a href="https://github.com/dfchunsring/wer/blob/master/epub/bnhhv605.epub?raw=true" width=290>【百年红祸】特别专题epub</a></h3></td>
 </table>
 
 
