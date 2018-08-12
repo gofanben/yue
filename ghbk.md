@@ -40,7 +40,7 @@
 </tr>
 </table>
 <table>
-	<h3 align="center">翻墙软件~免费下载</h3></p>
+	<td><h3 align="center"><a href='https://github.com/dfchunsring/drdr/blob/master/fg/fangqian.epub?raw=true'>翻墙软件~免费下载,请下载详细说明书-epub</a></h3></td></p>
 <tr>	
  <td><h3><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1802.zip?raw=true'>无界浏览18.02正式版 .zip</a></h3></td>
  <td><h3><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1802.exe?raw=true'>无界浏览18.02正式版 .exe</a></h3></td>
@@ -48,7 +48,7 @@
 </tr>
 </table>
 
-<td><h3><a href='https://github.com/dfchunsring/drdr/blob/master/fg/fangqian.epub?raw=true'>下载详细说明书-epub</a></h3></td>
+
 
 
 <table>
