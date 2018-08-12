@@ -39,8 +39,9 @@
 <td><h3><a href="https://github.com/dfchunsring/wer/blob/master/downldoad/hpbook-1.epub?raw=true">《共产主义黑皮书》-epub</a></h3></td></h3></p>
 </tr>
 </table>
+	<td><h3><a href='https://github.com/dfchunsring/drdr/blob/master/fg/fangqian.epub?raw=true'>翻墙软件~免费下载,请下载详细说明书-epub</a></h3></td></p>
 <table>
-	<td><h3 align="center"><a href='https://github.com/dfchunsring/drdr/blob/master/fg/fangqian.epub?raw=true'>翻墙软件~免费下载,请下载详细说明书-epub</a></h3></td></p>
+
 <tr>	
  <td><h3><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1802.zip?raw=true'>无界浏览18.02正式版 .zip</a></h3></td>
  <td><h3><a href='https://github.com/dfchunsring/wer/blob/master/fq/u1802.exe?raw=true'>无界浏览18.02正式版 .exe</a></h3></td>
