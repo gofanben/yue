@@ -35,7 +35,7 @@
 <hr> 
 <table><tr>
 <h3 align="center">《九评》编辑部：</h3></p>
-<td><h3 align="center"> <a href='https://github.com/dfchunsring/yue/blob/master/uty.md'>《共产主义的终极目的》</a></h3></td></b>
+<td><h3 align="center"> <a href='https://github.com/dfchunsring/yue/blob/master/uty.md'>《共产主义的终极目的》MP4-epub</a></h3></td></b>
 
 <h3 align="center">	
 <td><h3><a href="https://github.com/dfchunsring/wer/blob/master/downldoad/espec.epub?raw=true">魔鬼在统治着我们的世界(全文)-epub</a></h3></td></h3></p>
