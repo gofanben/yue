@@ -40,8 +40,9 @@
 </tr>
 </table>
 
+<h2 align="center">	
+<td><a href="https://github.com/dfchunsring/drdr/blob/master/fg/fangqian.epub?raw=true">翻墙软件~免费下载,请下载详细说明书-epub</a></td></h2></p>
 
-<td><h2><a href='https://github.com/dfchunsring/drdr/blob/master/fg/fangqian.epub?raw=true'>翻墙软件~免费下载,请下载详细说明书-epub</a></h2></td></b>
 <table>
 
 <tr>	
