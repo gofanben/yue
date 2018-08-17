@@ -34,7 +34,7 @@
 <h5 align="center">2005年1月12日</h5></p>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/yue/blob/master/img/p-b--22-1.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/yue/blob/master/img/52-2-2.png?raw=true" width=880></a><br></div>
 
 <table><tr>
 <h3 align="center">《九评》编辑部：</h3></p>
