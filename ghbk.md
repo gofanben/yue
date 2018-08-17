@@ -10,8 +10,8 @@
 <td><h3><a href='https://github.com/dfchunsring/wer/blob/master/phpn.md'>火狐,Chrome浏览器~免费下载~下载浏览器~请先翻墙~</a></h3></td></td></b>
 <td><h2><a href='https://git.io/orhb'>阅读率最高的epub电子书~免费下载</a><h2></td></td></b>
 
-<h1 align="center">	
-<td><a href="https://github.com/dfchunsring/wer/blob/master/downldoad/Reasily1802h.apk?raw=true">阅读电子书请使用Reasily阅读器,请先下载</a></td></h1></p>	
+<h2 align="center">	
+<td><a href="https://github.com/dfchunsring/wer/blob/master/downldoad/Reasily1802h.apk?raw=true">阅读电子书请使用可以看图文 视频 音频的*Reasily阅读器*,请先下载</a></td></h2></p>	
 
 <table>
 <td><h3><a href="https://github.com/dfchunsring/yue/blob/master/epub--1/whyTD-0523.epub?raw=true" width=290>为什么劝您退?因為你发了毒誓-epub</a></h3></td>	
