@@ -21,9 +21,6 @@
 <td><h3><a href="https://github.com/dfchunsring/wer/blob/master/epub/bnhhv605.epub?raw=true" width=290>【百年红祸】特别专题epub</a></h3></td>
 </table>
 
-
-
-
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/img/52-2-2.png?raw=true" width=880></a><br></div>
 
@@ -126,7 +123,8 @@
 
 摘自正见网
 
-
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/yue/blob/master/img/79-1.png?raw=true" width=880></a><br></div>
 <h3 align="center">大纪元郑重声明</h3></p>
 
 广大的中国民众：共产党的末日就要到了。但是这个邪恶的党（魔教）在历史上却对众生、对神佛犯下了滔天大罪，神一定要清算这个恶魔。
