@@ -1,6 +1,5 @@
- <div align=center><tr>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/yue/blob/master/img/513-1.jpg?raw=true" width=780></td>
-</tr></div>
+ <div align=center><IMG SRC="https://github.com/dfchunsring/yue/blob/master/img/513-1.jpg?raw=true" width=780>
+<br>精彩影片 请点击下载 http://36.227.98.164</div>
 
  <h3><td><a href="https://git.io/cvs">法轮大法洪传世界</a></td></h3><p>
  
