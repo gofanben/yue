@@ -14,6 +14,10 @@
  
   </tr>
   </table>
+  
+  <div align="center">
+<IMG SRC="https://github.com/dfchunsring/yue/blob/master/XYRS-img/b_ornament_62_1M.png?raw=true" width=880></div>
+  
   <h1 align="center">	
 <td><a href="https://github.com/dfchunsring/wer/blob/master/epub-1/25th-anniversary.epub?raw=true">法轮大法洪传25周年精选短片-epub</a></td></h1></p>
 
