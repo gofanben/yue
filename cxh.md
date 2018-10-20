@@ -16,7 +16,7 @@
   </table>
   
   <div align="center">
-<IMG SRC="https://github.com/dfchunsring/yue/blob/master/XYRS-img/b_ornament_62_1M.png?raw=true" width=880></div>
+<IMG SRC="https://github.com/dfchunsring/yue/blob/master/XYRS-img/b_ornament_62_1M.png?raw=true" width=850></div>
   
   <h1 align="center">	
 <td><a href="https://github.com/dfchunsring/wer/blob/master/epub-1/25th-anniversary.epub?raw=true">法轮大法洪传25周年精选短片-epub</a></td></h1></p>
@@ -68,7 +68,8 @@
 
 <a href=https://git.io/duun><h6 align="right">回首頁</h6></a>
 
-  <hr>
+  <div align="center">
+<IMG SRC="https://github.com/dfchunsring/yue/blob/master/XYRS-img/b_ornament_62_1M.png?raw=true" width=850></div>
   
   <div align="center">
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/img-2/falen1.jpg?raw=true" width=350></a><br></div>
@@ -160,7 +161,9 @@
  </tr>
  
  <h2 align="center"><td><a href="https://git.io/duun">了解真相有福报~点击连结~看更多~</a></td></h2></p>
-<hr>
+
+  <div align="center">
+<IMG SRC="https://github.com/dfchunsring/yue/blob/master/XYRS-img/b_simple_5_0M.png?raw=true" width=850></div>
 
 <table>
 <tr>	<td><a href="https://github.com/dfchunsring/wer/blob/master/downldoad/xyse-1.epub?raw=true"><img src="https://github.com/dfchunsring/yue/blob/master/img/witnc-1.jpg?raw=true"></a></td>
@@ -172,7 +175,8 @@
 
 </tr>
 </table>
-<hr>
+  <div align="center">
+<IMG SRC="https://github.com/dfchunsring/yue/blob/master/XYRS-img/b_simple_5_0M.png?raw=true" width=850></div>
 
  <h2 align="center"><td><a href="http://www.zhengjian.org/">永远的传奇—从长春到世界~</a></td></h2></p>
 
@@ -384,7 +388,8 @@
 <p></p>
 二十五年来，法轮大法的传奇，记录了身体和心灵的故事，涵盖了生命和未来的篇章，揭示了星球和宇宙的奥秘。今日，中共对法轮功的迫害仍未停止。当善良与邪恶对峙，当真理于阴霾中闪光，让我们回顾、仰望—一股清流，脉脉流淌，浸润红尘；一方净土，于俗世开拓，广纳众生。辉煌，从神州发源，展现生命的奇迹，迸发心灵的欢呼。震撼与思考，四海回荡；高德大法，威扬十方。
 
-<hr>
+  <div align="center">
+<IMG SRC="https://github.com/dfchunsring/yue/blob/master/XYRS-img/b_simple_5_0M.png?raw=true" width=850></div>
   
   <h1 align="center">	
 <td><a href="https://github.com/dfchunsring/yue/blob/master/zsjs-1.mp4/FaLun_hpass.mp4?raw=true">大法洪传-mp4</a></td></h1></p>
@@ -411,8 +416,11 @@
   <div align="center">
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/img--3/dfh-999.jpg?raw=true" width=850></a><br></div>
 
-<hr>  
+  <div align="center">
+<IMG SRC="https://github.com/dfchunsring/yue/blob/master/XYRS-img/b_simple_5_0M.png?raw=true" width=850></div>
+	
  <h2 align="center"><td><a href="http://www.minghui.org/">一本伴随了我二十年的书</a></td></h2></p>
+ 
    <div align="center">
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/img--3/zfl-9.jpg?raw=true" width=650></a><br></div>
  
@@ -446,7 +454,10 @@
 我就想，既然这些孩子的本性都具备真、善、忍的特性，我就应该从善的一面启发他们啊，不应该一味地惩罚。于是我不再抱怨自己遇到的学生难管，从内心爱他们，珍惜他们，很用心地从学习和生活上帮助他们，时常给他们写一些鼓励的话，表示我相信他们是非常好的学生。有一次我自己做不好，说了伤害学生的话，我主动放下身架，跟学生真诚地道歉，这个一直对我满不在乎的学生听了我的道歉后，眼中泛起了泪花，低下头说：“我错了。”我那一刻体会到了相互信任的力量，也很感慨自己那一刻是按照真、善、忍的要求在做。这样我和学生渐渐建立起了良好的关系，也引导他们走上了正道。我做的一切也被别的孩子看在眼里，每天收到他们为我画的画，写的文字，说感谢我为他们的付出，让我非常欣慰。 
 <p></p>
 能够从小读《转法轮》长大，从孩童到青年，从学生到老师，《转法轮》一直伴随我人生的每一个阶段，我感到无比幸运。希望能有更多的人知道《转法轮》，也相信这本宝书会给有缘者带来更多的启示。 
-<hr>
+
+  <div align="center">
+<IMG SRC="https://github.com/dfchunsring/yue/blob/master/XYRS-img/b_simple_5_0M.png?raw=true" width=850></div>
+
  <h2 align="center"><td><a href="http://www.xinsheng.net/">瑞士女子：来自中国的无价之宝</a></td></h2></p>
 
 
@@ -472,7 +483,9 @@
 <p></p>
 西蒙娜说，凡是能得到《转法轮》这本书的人，都应该看一看，“因为那真是无价之宝。” 
 
-<hr>
+  <div align="center">
+<IMG SRC="https://github.com/dfchunsring/yue/blob/master/XYRS-img/b_simple_5_0M.png?raw=true" width=850></div>
+
   <div align="center">
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/XYRS-img/XYRS-5.jpg?raw=true" width=550></a><br></div>
 <p></p>
@@ -480,7 +493,8 @@
 <p></p>
 作为医生的他，曾救治过无数的病人，然而当面对自己的疾病时，却是茫然无措。他看遍了中西名医，最后都以失败告终。然而，就是这样一位患上绝症的医生病人，却奇迹般的活了过来，这里面成就着一段不朽的佳话。
 
-<hr>
+  <div align="center">
+<IMG SRC="https://github.com/dfchunsring/yue/blob/master/XYRS-img/b_simple_5_0M.png?raw=true" width=850></div>
 
 <h1 align="center">	
 <td><a href="http://www.xinsheng.net/">比利时“浪子”的人生转折</a></td></h1>
@@ -524,7 +538,8 @@
 <p></p>
 贝纳斯说，“可是自从我学了法轮大法后，身体上感觉越来越好，不再需要任何药物了，也不要做手术了。”现在父子三家人经常在一起聚会，大家庭充满了欢乐气氛。
 
-<hr>
+  <div align="center">
+<IMG SRC="https://github.com/dfchunsring/yue/blob/master/XYRS-img/b_simple_5_0M.png?raw=true" width=850></div>
 
 <h1 align="center">	
 <td><a href="http://www.ntdtv.com.tw/program/%E4%B9%9D%E8%A9%95%E5%85%B1%E7%94%A2%E9%BB%A8">台湾校长的修炼故事</a></td></h1>
@@ -544,7 +559,8 @@
 <p></p>
 目前在中学教书的黄韵璇，四年前也开始修炼法轮功。那时她的课业、情感正陷入低谷，情绪波动很大。但在阅读法轮功的书籍之后，心情很快平静下来，尤其是感情的问题，她惊讶自己可以在很短的时间内坦然面对，豁然开朗。黄韵璇认识到，改变别人很难，但是可以向内修自己的心，改变自己，这样，事情的结果往往变得更好。她说：“我觉得越来越平静、幸福。”
 
-<hr>
+  <div align="center">
+<IMG SRC="https://github.com/dfchunsring/yue/blob/master/XYRS-img/b_simple_5_0M.png?raw=true" width=850></div>
 
 <h1 align="center">	
 <td><a href="http://www.zhengjian.org/">芬兰音乐家与《金色的国度》</a></td></h1>
@@ -630,7 +646,8 @@
 <p></p>
 “我不太善于言辞，写歌曲对我而言更容易一些。修炼人都能用自身为例，在每天的日常生活之中展现出美好，我就是这样。”她很谦和。这就是我们眼中的安娜。 
 
-<hr>
+  <div align="center">
+<IMG SRC="https://github.com/dfchunsring/yue/blob/master/XYRS-img/b_simple_5_0M.png?raw=true" width=850></div>
 
 <h1 align="center">	
 <td><a href="http://www.epochtimes.com/gb">一个俄罗斯家庭的修炼故事</a></td></h1>
@@ -690,7 +707,8 @@
 <p></p>
 斯万表示，他修炼法轮功之后，身心受益良多，他不能对中国发生的对法轮功的迫害袖手旁观。他说：“告诉别人这场迫害的真相是非常必要的，所以我把很多假期的时间都用在了这上面。” 
 
-<hr>
+  <div align="center">
+<IMG SRC="https://github.com/dfchunsring/yue/blob/master/XYRS-img/b_simple_5_0M.png?raw=true" width=850></div>
 
 <h1 align="center">	
 <td><a href="http://www.zhengjian.org/">生命中最珍贵的礼物</a></td></h1>
@@ -713,7 +731,8 @@
 <p></p>
 艾西瓦娅塞庆幸自己生长在一个自由的国家，“我有信仰的自由，可以炼我喜欢的功法，过我想过的生活。但是共产党不给人们自由，法轮功学员按照真、善、忍做好人，就被投入监狱，被酷刑折磨，‘真、善、忍’有什么错？每个人都有选择生活的自由，这场持续了十六年的迫害必须终止。”她说。 
 
-<hr>
+  <div align="center">
+<IMG SRC="https://github.com/dfchunsring/yue/blob/master/XYRS-img/b_simple_5_0M.png?raw=true" width=850></div>
 
 <h1 align="center">	
 <td><a href="http://www.minghui.org/">梅开五福</a></td></h1>
@@ -760,7 +779,8 @@
 <p></p>
 北宋著名预言《梅花诗》，在结尾处描述了人类历史大戏的最后一幕，就是法轮大法传遍世界，诗中写到“数点梅花天地春”，经过严冬考验的法轮功弟子遍及世界，如傲霜雪的朵朵梅花迎接春天的到来，大法的福音传遍人间。今天，在我的身边已经能看到这一幕的缩影。 
 
-<hr>
+  <div align="center">
+<IMG SRC="https://github.com/dfchunsring/yue/blob/master/XYRS-img/b_simple_5_0M.png?raw=true" width=850></div>
 
 <h1 align="center">	
 <td><a href="http://www.soundofhope.org/">台湾警察的故事与忠告</a></td></h1>
@@ -801,7 +821,8 @@
 <p></p>
 潘怡安希望还在参与迫害的人赶快清醒，快与中共邪党划清界限，争取立功赎罪，否则等到清算中共罪恶时，难逃被论罪判刑的下场。 
 
-<hr>
+  <div align="center">
+<IMG SRC="https://github.com/dfchunsring/yue/blob/master/XYRS-img/b_simple_5_0M.png?raw=true" width=850></div>
 
 <h1 align="center">	
 <td><a href="http://www.zhengjian.org/">从《转法轮》中获得人生答案</a></td></h1>
@@ -833,7 +854,8 @@
 <p></p>
 修炼法轮功的艾昌瑞教授在研究上一直以来钻研于现代企业管理学，主攻人事资源管理，饶有建树；孜孜不倦的教学尤获好评，连带他的言谈举止，一言一行，都让学生留下深刻的印象，对学生的人生有良好的影响。 
 
-<hr>
+  <div align="center">
+<IMG SRC="https://github.com/dfchunsring/yue/blob/master/XYRS-img/b_simple_5_0M.png?raw=true" width=850></div>
 
 <h1 align="center">	
 <td><a href="http://www.zhengjian.org/">苦寻真法 心系华人</a></td></h1>
@@ -899,10 +921,11 @@
 <p></p>
 中共不等于中国。法兰兹说：“我想对来自大陆的朋友说句心里话，请你们相信，我们对中国人民丝毫不反对。我们很高兴看到中国经济繁荣，人民的生活水平提高。我们也不会因为揭露中共极权对我们的迫害而贬低中国人民为了得到幸福生活而付出的劳动。请记住，这两件完全不同的事情在我们心中分得很清。中共的罪恶人神共诛。中国人民能得到神佛的眷顾，有个美好未来，这是让我们深深牵挂的。” 
 
-<hr>
+  <div align="center">
+<IMG SRC="https://github.com/dfchunsring/yue/blob/master/XYRS-img/b_simple_5_0M.png?raw=true" width=850></div>
+
 <h1 align="center">	
 <td><a href="http://www.zhengjian.org/">比利时青年：修炼法轮大法的美妙</a></td></h1>
-
 
   <div align="center">
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/img--3/dfh-16.jpg?raw=true" width=550></a><br>
@@ -950,7 +973,8 @@
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/img--3/dfh_1-8.jpg?raw=true" width=750></a><br>
 </div>
 
-
+  <div align="center">
+<IMG SRC="https://github.com/dfchunsring/yue/blob/master/XYRS-img/b_ornament_62_1M.png?raw=true" width=850></div>
 
 
 
