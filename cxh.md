@@ -61,9 +61,9 @@
  <table>
 <tr>
   <h2>	
-<td><a href="https://github.com/dfchunsring/drdr/blob/master/mp4/26anniversary-16.mp4?raw=true" width=400>法轮大法洪传26周年.mp4</a></td></h2></p>
+<td><center><a href="https://github.com/dfchunsring/drdr/blob/master/mp4/26anniversary-16.mp4?raw=true" width=400>法轮大法洪传26周年.mp4</a></td></h2></p>
 
-<td><a href="https://github.com/dfchunsring/yue/blob/master/64-mp4/dfhc-26.mp4?raw=true" width=400>悉尼有缘人纷纷得法.mp4</a></td></h2></p>
+<td><center><a href="https://github.com/dfchunsring/yue/blob/master/64-mp4/dfhc-26.mp4?raw=true" width=400>悉尼有缘人纷纷得法.mp4</a></td></h2></p>
 </tr> </table>
 
 
