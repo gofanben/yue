@@ -18,12 +18,11 @@
   <div align="center">
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/XYRS-img/b_ornament_62_1M.png?raw=true" width=880></div>
  
-  <table>
-<tr>
-<td><center><a href="https://github.com/dfchunsring/drdr/blob/master/mp4/26anniversary-16.mp4?raw=true" width=400>法轮大法洪传26周年.mp4</a></center></td></a>
+  <h1 align="center">	
+<td><center><a href="https://github.com/dfchunsring/drdr/blob/master/mp4/26anniversary-16.mp4?raw=true" width=400>法轮大法洪传26周年.mp4</a></center></td></h1></a>
+  <h2 align="center">	
+<td><center><a href="https://github.com/dfchunsring/yue/blob/master/64-mp4/dfhc-26.mp4?raw=true" width=400>法轮大法洪传26周年悉尼有缘人纷纷得法.mp4</a></center></td></h2></a>
 
-<td><center><a href="https://github.com/dfchunsring/yue/blob/master/64-mp4/dfhc-26.mp4?raw=true" width=400>悉尼有缘人纷纷得法.mp4</a></center></td></a>
-</tr> </table>
  
  
   <h1 align="center">	
