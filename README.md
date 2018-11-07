@@ -1,5 +1,5 @@
  <div align=center><IMG SRC="https://github.com/dfchunsring/yue/blob/master/img/513-1.jpg?raw=true" width=780>
-<br><h3>必看 精彩视频   请直接点击 http://111.241.99.25</h3></div>
+<br><h3>必看 精彩视频   请直接点击 http://61.228.118.29</h3></div>
 
  <h3><td><a href="https://git.io/cvs">法轮大法洪传世界</a></td></h3><p>
  
