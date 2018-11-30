@@ -1,8 +1,8 @@
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/yue/blob/master/img/555-1.jpg?raw=true" width=880></a><br><h3>必看 精彩视频   请直接点击 http://220.141.119.18</h3></div>
+<IMG SRC="https://github.com/dfchunsring/yue/blob/master/img/555-1.jpg?raw=true" width=880></a><br><h3>必看 精彩视频   请直接点击 http://36.227.98.168</h3></div>
  </br>
 
-<td><h1><a href='https://git.io/duun'> 了解真相~有福报~看更多~</a></h1></td>
+<td><h1><a href='https://git.io/duun'> 了解真相~得福报~看更多~</a></h1></td>
   
   <div align="center">
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/img/17_222010.jpg?raw=true" width=880></a><br></div>
