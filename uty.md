@@ -1,6 +1,6 @@
 <table>
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/yue/blob/master/img/513-1.jpg?raw=true" width=880></a><br><h3>必看 精彩视频   请直接点击 http://36.227.98.168</h3></div>
+<IMG SRC="https://github.com/dfchunsring/yue/blob/master/img/513-1.jpg?raw=true" width=880></a><br><h3>必看 精彩视频   请直接点击 http://111.241.94.74</h3></div>
 </table>	
 
 <a href=https://git.io/duun><h6 align="right">回首頁</h6></a>
