@@ -64,7 +64,7 @@
 <td><a href="https://github.com/dfchunsring/wer/blob/master/epgh.md">【突破封锁看世界】~翻墙软件*免费下载*</a></td></h1></p>
 
   <h2 align="center">	
-<td><a href="https://github.com/dfchunsring/drdr/blob/master/mp4/26-513-van-ca_16K.mp3?raw=true">温哥华法轮功学员庆祝法轮大法洪传世界26周年.mp3</a></td></h2></p>
+<td><a href="https://github.com/dfchunsring/yue/blob/master/santui-mp3/santui-19.mp3?raw=true">温哥华法轮功学员庆祝法轮大法洪传世界26周年.mp3</a></td></h2></p>
 
 <a href=https://git.io/duun><h6 align="right">回首頁</h6></a>
 
