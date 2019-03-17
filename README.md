@@ -15,7 +15,7 @@
  
 <td><h3> <a href='https://github.com/dfchunsring/yue/blob/master/uty.md'>《九评》编辑部：《共产主义的终极目的》</a></h3></td><p>
 
- <div align=center><IMG SRC="https://github.com/dfchunsring/wer/blob/master/img/df-123.jpg?raw=true" width=550>
+ <div align=center><IMG SRC="https://github.com/dfchunsring/wer/blob/master/img/df-123.jpg?raw=true" width=500>
 <br></div>
 
  <div align=center><IMG SRC="https://github.com/dfchunsring/wer/blob/master/img/df-289.jpg?raw=true" width=880>
