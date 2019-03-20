@@ -18,7 +18,7 @@
  <div align=center><IMG SRC="https://github.com/dfchunsring/wer/blob/master/img/df-123.jpg?raw=true" width=500>
 <br></div>
 
- <div align=center><IMG SRC="https://github.com/dfchunsring/wer/blob/master/img/df-289.jpg?raw=true" width=880>
+ <div align=center><IMG SRC="https://github.com/dfchunsring/wer/blob/master/img/df-289.jpg?raw=true" width=800>
 <br></div>
 
 
