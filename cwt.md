@@ -5,7 +5,7 @@
  <div align=center><h1><b><a href="https://git.io/Ffor">红潮即将倾覆  天之将明</a></b></h1></div> 
   <div align=center><h1><a href="https://git.io/Yange">美将严格执法 拒迫害信仰者入境</a></h1></div>
  <h2 align="center"> 真相总览➤ https://git.io/01 </h2> 
-<td><h1><a href='https://git.io/duun'> 了解真相~得福报~看更多~</a></h1></td>
+<td><h1><a href='https://git.io/duun'> 看真相~得福报~更多连结~</a></h1></td>
   
   <div align="center">
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/img/17_222010.jpg?raw=true" width=880></a><br></div>
