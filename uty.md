@@ -46,11 +46,11 @@
 ******
 
 + <a href='https://github.com/dfchunsring/wer/blob/master/fq/um4.5.apk?raw=true'>无界翻墙软件安卓版4.5</a>
-    - <a href='https://github.com/dfchunsring/wer/blob/master/fq/um4.3.apk?raw=true'>无界浏览.安卓版4.3.apk</a>
-    - <a href='https://github.com/dfchunsring/yue/blob/master/fq/u1704.exe?raw=true'>无界桌机版17.04(exe)</a>  
+    - <a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/um%204.6.apk?raw=true'>无界浏览.安卓版4.6.apk</a>
+    - <a href='https://github.com/dfchunsring/wer/blob/master/newfg-1/u19.02.exe?raw=true'>无界桌机版19.02(exe)</a>  
 + <a href='https://github.com/dfchunsring/yue/blob/master/fq/fg-32.zip?raw=true'>自由门翻墙软件</a>
     - <a href='https://github.com/dfchunsring/yue/blob/master/fq/fg-32.zip?raw=true'>安卓版3.2</a>
-   - <a href='https://github.com/dfchunsring/yue/blob/master/fq/fg764p.zip?raw=true'>桌机版7.64版（1月9日)</a>
+   - <a href='https://github.com/dfchunsring/wer/blob/master/fq/fg768p.zip?raw=true'>桌机版7.68版.zip</a>
 + <a href='https://github.com/dfchunsring/drdr/blob/master/fg/Green_iPPOTV.exe?raw=true'>爱博电视桌机版</a>   
 + <a href='https://github.com/dfchunsring/yue/blob/master/fq/2.1.12sp1%20.iNTD_TV(apk)iNTD_TV.apk?raw=true'>新唐人安卓手機版</a>
 
