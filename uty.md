@@ -8,6 +8,8 @@
   <div align=center><h1><a href="https://git.io/Yange">美将严格执法 拒迫害信仰者入境</a></h1></div>
  <h2 align="center"> 真相总览➤ https://git.io/01 </h2> 
  
+  <div align=center><h1><a href="https://git.io/Zime">共产主义的终极目的視頻版</a></h1></div>
+ 
 <a href=https://git.io/duun><h6 align="right">回首頁</h6></a>
 
 <table>
