@@ -3,10 +3,10 @@
 <table>
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/img/513-1.jpg?raw=true" width=880></a><br>
-	<h3>🌼必看 精彩视频 请直接点击 http://61.228.184.37/300</h3></div>
+	<!--<h3>🌼必看 精彩视频 请直接点击 http://61.228.184.37/300</h3>--></div>
 </table>	
 
- <div align=center><h2><b>请收藏本网址，连上免翻视频即时IP>>https://git.io/swspip</b></h2></div> 
+ <div align=center><h2><b>请收藏本网址，连上免翻视频即时IP>>https://git.io/swspip 或  https://bit.ly/3ezRQKo</b></h2></div> 
 
   <div align=center><h2><a href="https://git.io/Zime">共产主义的终极目的視頻版</a></h2></div>
  
