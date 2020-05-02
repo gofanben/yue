@@ -6,14 +6,15 @@
 	<!--<h3>🌼必看 精彩视频 请直接点击 http://61.228.184.37/300</h3>--></div>
 </table>	
 
- <div align=center><h2><b>请收藏本网址，连上免翻视频即时IP>>https://git.io/swspip 或  https://bit.ly/3ezRQKo</b></h2></div> 
+<div align="center"><h3>请收藏网址(新闻视频)  https://bit.ly/3ezRQKo 随时连上最新即时IP</h3></div> </p>
 
- <div align=center><b>直连不必翻墙 🌼 必看精彩视频https://bit.ly/2VIs51L</b></div>
-<hr>
-<tr><td width=900><h3><b><a href="https://git.io/kkopop">➤ 中国禁闻  点击视频  </a></b></h3></tr>
-</td>
-<hr> 
-<h1>看更多真相 https://bit.ly/2RQM1hX</h1>
+<div align="center"><h3><b>中国禁闻 点击视频 https://bit.ly/2VIs51L </h3></b></div> </p>
+ <div align="center"><h3>看更多真相 https://bit.ly/2RQM1hX </h3></div></p>
+ 
+ <div align="center"><h4>网页若出现〝你的连现不是私人连线″，点→进阶，再点→继续前往...，就可以看到视频了。 </h4> </div></p>
+
+
+<div align=center><h3><b><a href="https://github.com/awwkk/usdom/blob/master/forfor.md">● 红潮即将倾覆  天之将明 ● </a></b></h3></div></p> 
 
   <div align=center><h2><a href="https://git.io/Zime">共产主义的终极目的視頻版</a></h2></div>
  
